@@ -65,8 +65,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testcases/Dashboard/project_dashboard_ui_functionality/dashboard_ui_functionality.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+            <state relative-caret-position="242">
+              <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
               <folding>
                 <element signature="e#0#99#0" expanded="true" />
               </folding>
@@ -191,11 +191,6 @@
               <item name="furnish" type="b2602c69:ProjectViewProjectNode" />
               <item name="furnish" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="furnish" type="b2602c69:ProjectViewProjectNode" />
-              <item name="furnish" type="462c0819:PsiDirectoryNode" />
-              <item name="Library" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -311,16 +306,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.14195184" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.14195184" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5006337" side_tool="true" weight="0.50268817" />
       <window_info anchor="bottom" id="Python Console" order="1" sideWeight="0.49936628" weight="0.4341398" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" weight="0.32258064" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="4" visible="true" weight="0.3293011" />
+      <window_info anchor="bottom" id="Version Control" order="4" visible="true" weight="0.15994623" />
       <window_info anchor="bottom" id="Run" order="5" weight="0.27688172" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.39919356" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
@@ -587,8 +581,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testcases/Dashboard/project_dashboard_ui_functionality/dashboard_ui_functionality.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        <state relative-caret-position="242">
+          <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
           <folding>
             <element signature="e#0#99#0" expanded="true" />
           </folding>

@@ -21,7 +21,7 @@ class dashboardCases(unittest.TestCase):
         result = self.dash.bar()
         assert result == True
 
-    '''def test_04VerifyBudgetAllocatedText(self):
+    def test_04VerifyBudgetAllocatedText(self):
         self.dash = dashboard(self.driver)
         self.dash.budgetAllocated()
 
@@ -51,6 +51,6 @@ class dashboardCases(unittest.TestCase):
     def test_10VerifyLinkNavigation(self):
         self.dash = dashboard(self.driver)
         result = self.dash.linkNavigation()
-        assert result == True'''
+        assert result == True
 
 
