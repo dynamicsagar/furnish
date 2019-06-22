@@ -5,7 +5,14 @@
     <bookmark url="file://$PROJECT_DIR$/pages/add_remove_product/add_remove_product_page.py" line="218" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b859c17c-ad56-4161-aa74-07aafe7fc1ed" name="Default Changelist" comment="" />
+    <list default="true" id="b859c17c-ad56-4161-aa74-07aafe7fc1ed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Library/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/automation.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_dir/TestResults_testcases.catalog.catalog_testcases.Logcat_2019-06-22_11-53-56.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases/test_suite.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_suite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +21,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/automation.log">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1826">
@@ -50,10 +57,34 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testcases/test_suite.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+            <state relative-caret-position="286">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcases/add_remove_products/add_remove_products_testcses.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3476">
+              <caret line="158" column="68" lean-forward="true" selection-start-line="158" selection-start-column="68" selection-end-line="158" selection-end-column="68" />
+              <folding>
+                <element signature="e#0#78#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testcases/Dashboard/project_dashboard_ui_functionality/dashboard_ui_functionality.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#0#99#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -114,6 +145,9 @@
       <find>switch</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -154,7 +188,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-4" />
     <option name="y" value="-4" />
     <option name="width" value="1374" />
@@ -176,7 +210,7 @@
             <path>
               <item name="furnish" type="b2602c69:ProjectViewProjectNode" />
               <item name="furnish" type="462c0819:PsiDirectoryNode" />
-              <item name="example_dir" type="462c0819:PsiDirectoryNode" />
+              <item name="Library" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -186,8 +220,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../letskodeit" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -283,11 +318,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.14195184" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.14195184" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5006337" side_tool="true" weight="0.50268817" />
       <window_info anchor="bottom" id="Python Console" order="1" sideWeight="0.49936628" weight="0.4341398" />
@@ -299,7 +334,7 @@
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" weight="0.3293011" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49936628" visible="true" weight="0.31182796" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49936628" visible="true" weight="0.31182796" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -452,13 +487,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testcases/add_remove_products/add_remove_products_testcses.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1342">
-          <caret line="158" column="68" lean-forward="true" selection-start-line="158" selection-start-column="68" selection-end-line="158" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/debug.log">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -489,16 +517,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testcases/Dashboard/project_dashboard_ui_functionality/dashboard_ui_functionality.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#99#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/furniture_budget/furniture_budget_pages.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2222">
@@ -520,16 +538,6 @@
           <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testcases/test_suite.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -558,6 +566,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1826">
           <caret line="83" column="32" selection-start-line="83" selection-start-column="32" selection-end-line="83" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/test_suite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/add_remove_products/add_remove_products_testcses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3476">
+          <caret line="158" column="68" lean-forward="true" selection-start-line="158" selection-start-column="68" selection-end-line="158" selection-end-column="68" />
+          <folding>
+            <element signature="e#0#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/Dashboard/project_dashboard_ui_functionality/dashboard_ui_functionality.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#99#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
