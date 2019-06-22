@@ -38,11 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testcases/test_suite.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="154">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -62,11 +62,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testcases/Dashboard/project_dashboard_ui_functionality/dashboard_ui_functionality.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+            <state relative-caret-position="1144">
+              <caret line="52" column="43" lean-forward="true" selection-start-line="52" selection-start-column="43" selection-end-line="52" selection-end-column="43" />
               <folding>
                 <element signature="e#0#99#0" expanded="true" />
               </folding>
@@ -163,12 +163,12 @@
         <option value="$PROJECT_DIR$/testcases/add_remove_products/add_remove_products_testcses.py" />
         <option value="$PROJECT_DIR$/testcases/furniture_budget/furniture_budget_testcases.py" />
         <option value="$PROJECT_DIR$/pages/furniture_budget/furniture_budget_pages.py" />
-        <option value="$PROJECT_DIR$/testcases/Dashboard/project_dashboard_ui_functionality/dashboard_ui_functionality.py" />
         <option value="$PROJECT_DIR$/automation.log" />
         <option value="$PROJECT_DIR$/pages/Dashboard/project_Dashboard_ui_functionality/dashboard_ui_functionality.py" />
         <option value="$PROJECT_DIR$/pages/add_remove_product/add_remove_product_page.py" />
         <option value="$PROJECT_DIR$/base/webdriver_factory.py" />
         <option value="$PROJECT_DIR$/testcases/test_suite.py" />
+        <option value="$PROJECT_DIR$/testcases/Dashboard/project_dashboard_ui_functionality/dashboard_ui_functionality.py" />
       </list>
     </option>
   </component>
@@ -190,6 +190,11 @@
             <path>
               <item name="furnish" type="b2602c69:ProjectViewProjectNode" />
               <item name="furnish" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="furnish" type="b2602c69:ProjectViewProjectNode" />
+              <item name="furnish" type="462c0819:PsiDirectoryNode" />
+              <item name="testcases" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -305,7 +310,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.14195184" />
@@ -559,16 +565,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testcases/test_suite.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testcases/add_remove_products/add_remove_products_testcses.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3476">
@@ -581,10 +577,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testcases/Dashboard/project_dashboard_ui_functionality/dashboard_ui_functionality.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        <state relative-caret-position="1144">
+          <caret line="52" column="43" lean-forward="true" selection-start-line="52" selection-start-column="43" selection-end-line="52" selection-end-column="43" />
           <folding>
             <element signature="e#0#99#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/test_suite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
