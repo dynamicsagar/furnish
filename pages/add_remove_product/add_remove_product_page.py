@@ -73,7 +73,7 @@ class addRemoveProducts(SeleniumDriver):
 
     # adding a product
     def add(self):
-        time.sleep(15)
+        time.sleep(45)
         self.clickProduct()
         time.sleep(2)
         self.addProduct()

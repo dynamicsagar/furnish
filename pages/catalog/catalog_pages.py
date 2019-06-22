@@ -39,7 +39,7 @@ class CatalogPages(SeleniumDriver):
 
 
     def accessCatalogPage(self):
-        time.sleep(10)
+        time.sleep(15)
         self.waitForElement(self._click_project)
         self.elementClick(self._click_project)
         time.sleep(2)

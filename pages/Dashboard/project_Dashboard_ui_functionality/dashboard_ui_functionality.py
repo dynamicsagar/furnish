@@ -22,7 +22,7 @@ class dashboard(SeleniumDriver):
 
     # 01 TC - Verify Opening Text in grid
     def openingText(self):
-        time.sleep(10)
+        time.sleep(15)
         self.waitForElement(self._opening)
         opening_text = self.getText(self._opening)
         opening_text_name = 'Opening'
