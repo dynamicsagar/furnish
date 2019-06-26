@@ -18,7 +18,7 @@ class login(SeleniumDriver):
     _email_id_textfield = "//input[@id='identifierId']"
     _next_button = "//span[contains(text(),'Next')]"
     _password_textfield = "//input[@name='password']"
-    _user_profile_icon = "//img[contains(@src,'https://lh4.googleusercontent.com/-l0Nse9g06Lk/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reoOmkz5csX7CYFMarjSm6XD9HFwQ/mo/photo.jpg')]"
+    _user_profile_icon = "//img[contains(@src,'https://lh4.googleusercontent.com/-l0Nse9g06Lk/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reoOmkz5csX7CYFMarjSm6XD9HFwQ/photo.jpg')]"
     _logout_link = "//li[contains(text(),'Logout')]"
 
     # Relogin test locators for google.

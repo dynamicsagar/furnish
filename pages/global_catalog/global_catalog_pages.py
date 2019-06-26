@@ -29,7 +29,7 @@ class GlobalCatalog(SeleniumDriver):
 
     # Test case 2 - GC- Indicate logged in user
 
-    _user_profile_icon = "//img[contains(@src,'https://lh4.googleusercontent.com/-l0Nse9g06Lk/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reoOmkz5csX7CYFMarjSm6XD9HFwQ/mo/photo.jpg')]"
+    _user_profile_icon = "//img[contains(@src,'https://lh4.googleusercontent.com/-l0Nse9g06Lk/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reoOmkz5csX7CYFMarjSm6XD9HFwQ/photo.jpg')]"
 
     def userProfilePicture(self):
         self.waitForElement(self._user_profile_icon)
@@ -262,14 +262,12 @@ class GlobalCatalog(SeleniumDriver):
         self.elementClick(self._submenu_click)
         time.sleep(2)
         sku_text = sku_text[:-1]
-
-
         self.EnterProductName(sku_text) # enter product using last text trim
         time.sleep(2)
         self.pressEnter(Keys.ENTER)
         time.sleep(2)
         self.clickFirstCell()
-        time.sleep(2)
+        time.sleep(5)
         removed_last_sku = self.getText(self._sku)
         removed_last_sku = removed_last_sku[:-1]
         time.sleep(2)
@@ -285,7 +283,7 @@ class GlobalCatalog(SeleniumDriver):
         self.pressEnter(Keys.ENTER)
         time.sleep(2)
         self.clickFirstCell()
-        time.sleep(2)
+        time.sleep(5)
         removed_first_sku = self.getText(self._sku)
         removed_first_sku = removed_first_sku[1:]
         removed_first_sku = removed_first_sku[:-1]
@@ -304,7 +302,7 @@ class GlobalCatalog(SeleniumDriver):
         self.pressEnter(Keys.ENTER)
         time.sleep(3)
         self.clickFirstCell()
-        time.sleep(2)
+        time.sleep(5)
         lower_sku = self.getText(self._sku)
         lower_sku = lower_sku.lower()
         time.sleep(2)
