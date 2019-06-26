@@ -33,7 +33,7 @@ class CatalogPages(SeleniumDriver):
     _shop_for_more_link = "//a[contains(text(),'+ Shop for more')]"
     home_submenu = "//span[contains(.,'Home')]"
     home_navigation_check = "//p[contains(text(),'Your projects')]"
-    _user_profile_icon = "//img[contains(@src,'https://lh4.googleusercontent.com/-l0Nse9g06Lk/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reoOmkz5csX7CYFMarjSm6XD9HFwQ/mo/photo.jpg')]"
+    _user_profile_icon = "//img[contains(@src,'https://lh4.googleusercontent.com/-l0Nse9g06Lk/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reoOmkz5csX7CYFMarjSm6XD9HFwQ/photo.jpg')]"
     _logout_link = "//li[contains(text(),'Logout')]"
     _after_logout_google_text = "//div[@class='auth0-lock-social-button-text']"
 

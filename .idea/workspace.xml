@@ -6,7 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b859c17c-ad56-4161-aa74-07aafe7fc1ed" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pages/global_catalog/global_catalog_pages.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/global_catalog/global_catalog_pages.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/catalog/catalog_pages.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/catalog/catalog_pages.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testcases/global_catalog/global_catalog_testcases.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/global_catalog/global_catalog_testcases.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -77,8 +77,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testcases/global_catalog/global_catalog_testcases.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="424">
-              <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
+            <state relative-caret-position="-764">
+              <caret line="53" column="4" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
               <folding>
                 <element signature="e#0#67#0" expanded="true" />
               </folding>
@@ -86,11 +86,35 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcases/catalog/catalog_testcases.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="e#0#52#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/catalog/catalog_pages.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="165" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/global_catalog/global_catalog_pages.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1233">
-              <caret line="243" column="55" selection-start-line="243" selection-start-column="19" selection-end-line="243" selection-end-column="55" />
+            <state relative-caret-position="1649">
+              <caret line="314" lean-forward="true" selection-start-line="314" selection-end-line="314" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -183,14 +207,14 @@
         <option value="$PROJECT_DIR$/base/webdriver_factory.py" />
         <option value="$PROJECT_DIR$/testcases/Dashboard/project_dashboard_ui_functionality/dashboard_ui_functionality.py" />
         <option value="$PROJECT_DIR$/testcases/test_suite.py" />
-        <option value="$PROJECT_DIR$/pages/catalog/catalog_pages.py" />
         <option value="$PROJECT_DIR$/pages/Dashboard/project_Dashboard_ui_functionality/dashboard_ui_functionality.py" />
         <option value="$PROJECT_DIR$/testcases/view_by_room/view_by_room.py" />
         <option value="$PROJECT_DIR$/pages/view_by_room/view_by_room.py" />
         <option value="$PROJECT_DIR$/pages/login_and_logout/login_logout_page.py" />
-        <option value="$PROJECT_DIR$/testcases/global_catalog/global_catalog_testcases.py" />
         <option value="$PROJECT_DIR$/pages/add_remove_product/add_remove_product_page.py" />
         <option value="$PROJECT_DIR$/pages/global_catalog/global_catalog_pages.py" />
+        <option value="$PROJECT_DIR$/testcases/global_catalog/global_catalog_testcases.py" />
+        <option value="$PROJECT_DIR$/pages/catalog/catalog_pages.py" />
       </list>
     </option>
   </component>
@@ -228,12 +252,24 @@
               <item name="furnish" type="b2602c69:ProjectViewProjectNode" />
               <item name="furnish" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="catalog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="furnish" type="b2602c69:ProjectViewProjectNode" />
+              <item name="furnish" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
               <item name="global_catalog" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="furnish" type="b2602c69:ProjectViewProjectNode" />
               <item name="furnish" type="462c0819:PsiDirectoryNode" />
               <item name="testcases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="furnish" type="b2602c69:ProjectViewProjectNode" />
+              <item name="furnish" type="462c0819:PsiDirectoryNode" />
+              <item name="testcases" type="462c0819:PsiDirectoryNode" />
+              <item name="catalog" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="furnish" type="b2602c69:ProjectViewProjectNode" />
@@ -356,9 +392,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.14195184" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.14195184" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5006337" side_tool="true" weight="0.50268817" />
       <window_info anchor="bottom" id="Python Console" order="1" sideWeight="0.49936628" weight="0.4341398" />
@@ -370,7 +407,7 @@
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" weight="0.3293011" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49936628" visible="true" weight="0.36290324" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49936628" visible="true" weight="0.36290324" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -466,16 +503,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testcases/catalog/catalog_testcases.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#0#52#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testcases/filter_bucket/bulk_and_view_type.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1166">
@@ -520,16 +547,6 @@
           <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/catalog/catalog_pages.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -621,16 +638,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testcases/global_catalog/global_catalog_testcases.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
-          <folding>
-            <element signature="e#0#67#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/automation.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-14965">
@@ -640,8 +647,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/global_catalog/global_catalog_pages.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1233">
-          <caret line="243" column="55" selection-start-line="243" selection-start-column="19" selection-end-line="243" selection-end-column="55" />
+        <state relative-caret-position="1649">
+          <caret line="314" lean-forward="true" selection-start-line="314" selection-end-line="314" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/global_catalog/global_catalog_testcases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-764">
+          <caret line="53" column="4" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/catalog/catalog_testcases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/catalog/catalog_pages.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="165" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>

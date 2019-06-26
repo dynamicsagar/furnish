@@ -51,7 +51,7 @@ class globalCatalog(unittest.TestCase):
         self.gc = GlobalCatalog(self.driver)
         self.gc.skuSearch()
 
-    '''def test_06VerifyBulkTag(self):
+    def test_06VerifyBulkTag(self):
         self.gc = GlobalCatalog(self.driver)
         self.gc.filterTagVerification()
 
@@ -95,7 +95,7 @@ class globalCatalog(unittest.TestCase):
 
     def test_16VerifyGlobalCatalogLogout(self):
         self.gc = GlobalCatalog(self.driver)
-        self.gc.clickLogout()'''
+        self.gc.clickLogout()
 
 
 
