@@ -241,6 +241,7 @@ class GlobalCatalog(SeleniumDriver):
 
 
     _sku = "//div[@class='sc-ifAKCX cZFrkc']//div[1]//span[@class='sc-dnqmqq QqDcF']"
+    _custom_sku = "//p[contains(text(),'+ Custom SKU')]"
 
     def skuSearch(self):
         time.sleep(2)
@@ -256,9 +257,10 @@ class GlobalCatalog(SeleniumDriver):
         time.sleep(2)
         self.clickFirstCell()
         time.sleep(5)
-        sku_detail_text = self.getText(self._sku)
+        sku_full = self.getText(self._sku)
         time.sleep(2)
-        self.verifyTextContains(actualText=sku_text, expectedText=sku_detail_text)
+        self.verifyTextContains(actualText=sku_text, expectedText=sku_full)
+
         self.elementClick(self._submenu_click)
         time.sleep(2)
         sku_text = sku_text[:-1]
@@ -266,47 +268,49 @@ class GlobalCatalog(SeleniumDriver):
         time.sleep(2)
         self.pressEnter(Keys.ENTER)
         time.sleep(2)
-        self.clickFirstCell()
-        time.sleep(5)
-        removed_last_sku = self.getText(self._sku)
-        removed_last_sku = removed_last_sku[:-1]
-        time.sleep(2)
-        self.verifyTextContains(actualText=sku_text, expectedText=removed_last_sku)
-        self.elementClick(self._submenu_click)
-        time.sleep(2)
-        sku_text = sku_text[1:]
+        if self.isElementDisplayed(self._custom_sku) == True:
+            time.sleep(4)
+            custom_text = "+ Custom SKU"
+            ck = self.getText(self._custom_sku)
+            self.verifyTextContains(actualText=ck, expectedText=custom_text)
+        else:
+            time.sleep(5)
+            removed_last_sku = self.getText(self._sku)
+            removed_last_sku = removed_last_sku[:-1]
+            time.sleep(2)
+            self.verifyTextContains(actualText=sku_text, expectedText=removed_last_sku)
+            self.elementClick(self._submenu_click)
+            time.sleep(2)
+            # enter product sku using first and last name trim
+            sku_text = sku_text[1:]
+            self.EnterProductName(sku_text)
+            time.sleep(2)
+            self.pressEnter(Keys.ENTER)
+            time.sleep(2)
+            self.clickFirstCell()
+            time.sleep(5)
+            removed_first_sku = self.getText(self._sku)
+            removed_first_sku = removed_first_sku[1:]
+            removed_first_sku = removed_first_sku[:-1]
+            time.sleep(2)
+            self.verifyTextContains(actualText=sku_text, expectedText=removed_first_sku)
+            time.sleep(2)
+            sku_text1 = self.getText(self._sku)
+            sku_text1 = sku_text1.lower()
+            self.elementClick(self._submenu_click)
+            time.sleep(2)
 
-
-        # enter product using first text trim
-        self.EnterProductName(sku_text)
-        time.sleep(2)
-        self.pressEnter(Keys.ENTER)
-        time.sleep(2)
-        self.clickFirstCell()
-        time.sleep(5)
-        removed_first_sku = self.getText(self._sku)
-        removed_first_sku = removed_first_sku[1:]
-        removed_first_sku = removed_first_sku[:-1]
-        time.sleep(2)
-        self.verifyTextContains(actualText=sku_text, expectedText=removed_first_sku)
-        time.sleep(2)
-        sku_text1 = self.getText(self._sku)
-        sku_text1 = sku_text1.lower()
-        self.elementClick(self._submenu_click)
-        time.sleep(2)
-
-
-        # enter product using lower case
-        self.EnterProductName(sku_text1)
-        time.sleep(2)
-        self.pressEnter(Keys.ENTER)
-        time.sleep(3)
-        self.clickFirstCell()
-        time.sleep(5)
-        lower_sku = self.getText(self._sku)
-        lower_sku = lower_sku.lower()
-        time.sleep(2)
-        self.verifyTextContains(actualText=sku_text1, expectedText=lower_sku)
+            # enter product using lower case
+            self.EnterProductName(sku_text1)
+            time.sleep(2)
+            self.pressEnter(Keys.ENTER)
+            time.sleep(3)
+            self.clickFirstCell()
+            time.sleep(5)
+            lower_sku = self.getText(self._sku)
+            lower_sku = lower_sku.lower()
+            time.sleep(2)
+            self.verifyTextContains(actualText=sku_text1, expectedText=lower_sku)
 
 
     # Verify tag selected from left side should show expected list accordingly.

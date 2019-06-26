@@ -6,11 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b859c17c-ad56-4161-aa74-07aafe7fc1ed" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/add_remove_product/add_remove_product_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/add_remove_product/add_remove_product_page.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/global_catalog/global_catalog_pages.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/global_catalog/global_catalog_pages.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/login_and_logout/login_logout_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login_and_logout/login_logout_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcases/view_by_room/view_by_room.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/view_by_room/view_by_room.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases/global_catalog/global_catalog_testcases.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/global_catalog/global_catalog_testcases.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,23 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/add_remove_product/add_remove_product_page.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="110" column="61" selection-start-line="110" selection-start-column="61" selection-end-line="110" selection-end-column="61" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/global_catalog/global_catalog_pages.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="39" column="37" lean-forward="true" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+            <state relative-caret-position="-14335">
+              <caret line="112" column="7" selection-start-line="112" selection-start-column="7" selection-end-line="112" selection-end-column="7" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -92,11 +77,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testcases/global_catalog/global_catalog_testcases.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="51" column="25" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="25" />
+            <state relative-caret-position="424">
+              <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
               <folding>
                 <element signature="e#0#67#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/global_catalog/global_catalog_pages.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1233">
+              <caret line="243" column="55" selection-start-line="243" selection-start-column="19" selection-end-line="243" selection-end-column="55" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/automation.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-14965">
+              <caret line="212" column="102" selection-start-line="212" selection-start-column="80" selection-end-line="212" selection-end-column="102" />
             </state>
           </provider>
         </entry>
@@ -112,9 +118,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>next</find>
-      <find>productAddedViewByType</find>
-      <find>_product_count</find>
       <find>element1</find>
       <find>no ass</find>
       <find>contains</find>
@@ -139,9 +142,12 @@
       <find>_card_name</find>
       <find>_page2_pagination</find>
       <find>switch</find>
-      <find>//div[@class='sc-ifAKCX cZFrkc']//div[1]//span[@class='sc-dnqmqq QqDcF']</find>
       <find>_click_first_img</find>
       <find>_user_profile_icon</find>
+      <find>//div[@class='sc-ifAKCX cZFrkc']//div[1]//span[@class='sc-dnqmqq QqDcF']</find>
+      <find>clickFirstCell</find>
+      <find>sku_text</find>
+      <find>_first_cell</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -164,7 +170,6 @@
         <option value="$PROJECT_DIR$/base/basepage.py" />
         <option value="$PROJECT_DIR$/pages/Project_details/add_assignments/add_assignment_page.py" />
         <option value="$PROJECT_DIR$/testcases/filter_bucket/bulk_and_view_type.py" />
-        <option value="$PROJECT_DIR$/testcases/global_catalog/global_catalog_testcases.py" />
         <option value="$PROJECT_DIR$/testcases/conftest.py" />
         <option value="$PROJECT_DIR$/testcases/login_logout/login_logout_testcases.py" />
         <option value="$PROJECT_DIR$/testcases/Project_detail/add_remove_products/add_remove_products_testcses.py" />
@@ -182,13 +187,14 @@
         <option value="$PROJECT_DIR$/pages/Dashboard/project_Dashboard_ui_functionality/dashboard_ui_functionality.py" />
         <option value="$PROJECT_DIR$/testcases/view_by_room/view_by_room.py" />
         <option value="$PROJECT_DIR$/pages/view_by_room/view_by_room.py" />
-        <option value="$PROJECT_DIR$/pages/global_catalog/global_catalog_pages.py" />
         <option value="$PROJECT_DIR$/pages/login_and_logout/login_logout_page.py" />
+        <option value="$PROJECT_DIR$/testcases/global_catalog/global_catalog_testcases.py" />
         <option value="$PROJECT_DIR$/pages/add_remove_product/add_remove_product_page.py" />
+        <option value="$PROJECT_DIR$/pages/global_catalog/global_catalog_pages.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-4" />
     <option name="y" value="-4" />
     <option name="width" value="1374" />
@@ -221,6 +227,12 @@
             <path>
               <item name="furnish" type="b2602c69:ProjectViewProjectNode" />
               <item name="furnish" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="global_catalog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="furnish" type="b2602c69:ProjectViewProjectNode" />
+              <item name="furnish" type="462c0819:PsiDirectoryNode" />
               <item name="testcases" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -242,12 +254,12 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sagar\PycharmProjects\furnish\utilities" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Sagar\PycharmProjects\furnish\pages" />
       <recent name="C:\Users\Sagar\PycharmProjects\furnish\testcases" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Sagar\PycharmProjects\furnish\utilities" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -352,13 +364,13 @@
       <window_info anchor="bottom" id="Python Console" order="1" sideWeight="0.49936628" weight="0.4341398" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" weight="0.32258064" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="4" visible="true" weight="0.40994623" />
+      <window_info anchor="bottom" id="Version Control" order="4" weight="0.27284947" />
       <window_info anchor="bottom" id="Run" order="5" weight="0.27688172" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.39919356" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" weight="0.3293011" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49936628" weight="0.31182796" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49936628" visible="true" weight="0.36290324" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -482,7 +494,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/example_dir/TestResults_testcases.catalog.catalog_testcases.Logcat_2019-06-22_11-53-56.html" />
-    <entry file="file://$PROJECT_DIR$/automation.log" />
     <entry file="file://$PROJECT_DIR$/testcases/add_remove_products/add_remove_products_testcses.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3476">
@@ -573,16 +584,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testcases/test_suite.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="17" column="57" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/view_by_room/view_by_room.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -593,22 +594,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testcases/global_catalog/global_catalog_testcases.py">
+    <entry file="file://$PROJECT_DIR$/testcases/test_suite.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="51" column="25" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="25" />
+        <state relative-caret-position="269">
+          <caret line="17" column="57" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
           <folding>
-            <element signature="e#0#67#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/global_catalog/global_catalog_pages.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="39" column="37" lean-forward="true" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -622,8 +613,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/add_remove_product/add_remove_product_page.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="110" column="61" selection-start-line="110" selection-start-column="61" selection-end-line="110" selection-end-column="61" />
+        <state relative-caret-position="-14335">
+          <caret line="112" column="7" selection-start-line="112" selection-start-column="7" selection-end-line="112" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/global_catalog/global_catalog_testcases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
+          <folding>
+            <element signature="e#0#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/automation.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14965">
+          <caret line="212" column="102" selection-start-line="212" selection-start-column="80" selection-end-line="212" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/global_catalog/global_catalog_pages.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1233">
+          <caret line="243" column="55" selection-start-line="243" selection-start-column="19" selection-end-line="243" selection-end-column="55" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>

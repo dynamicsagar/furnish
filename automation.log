@@ -1,0 +1,1143 @@
+06/26/2019 11:40:53 AM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 11:40:54 AM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 11:40:54 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='auth0-lock-social-button-text'] and  locatorType: xpath
+06/26/2019 11:40:57 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='auth0-lock-social-button-text'] locatorType: xpath
+06/26/2019 11:40:59 AM - SeleniumDriver - INFO: Locator type //input[@id='identifierid'] not correct/supported
+06/26/2019 11:40:59 AM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 11:40:59 AM - SeleniumDriver - INFO: Element not appeared on the web page
+06/26/2019 11:40:59 AM - SeleniumDriver - INFO: Element found with locator: //input[@id='identifierId'] and  locatorType: xpath
+06/26/2019 11:40:59 AM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='identifierId'] locatorType: xpath
+06/26/2019 11:41:01 AM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 11:41:01 AM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 11:41:01 AM - SeleniumDriver - INFO: Element found with locator: //span[contains(text(),'Next')] and  locatorType: xpath
+06/26/2019 11:41:01 AM - SeleniumDriver - INFO: Clicked on element with locator: //span[contains(text(),'Next')] locatorType: xpath
+06/26/2019 11:41:03 AM - SeleniumDriver - INFO: Locator type //input[@name='password'] not correct/supported
+06/26/2019 11:41:03 AM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 11:41:03 AM - SeleniumDriver - INFO: Element not appeared on the web page
+06/26/2019 11:41:03 AM - SeleniumDriver - INFO: Element found with locator: //input[@name='password'] and  locatorType: xpath
+06/26/2019 11:41:04 AM - SeleniumDriver - INFO: Sent data on element with locator: //input[@name='password'] locatorType: xpath
+06/26/2019 11:41:06 AM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 11:41:06 AM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 11:41:06 AM - SeleniumDriver - INFO: Element found with locator: //span[contains(text(),'Next')] and  locatorType: xpath
+06/26/2019 11:41:06 AM - SeleniumDriver - INFO: Clicked on element with locator: //span[contains(text(),'Next')] locatorType: xpath
+06/26/2019 11:41:37 AM - SeleniumDriver - INFO: Element found with locator: //p[contains(text(),'Phoenix global catalog')] and  locatorType: xpath
+06/26/2019 11:41:37 AM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 11:41:37 AM - SeleniumDriver - INFO: The text is :: 'Phoenix global catalog'
+06/26/2019 11:41:37 AM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Phoenix global catalog
+06/26/2019 11:41:37 AM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Phoenix global catalog
+06/26/2019 11:41:37 AM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 11:41:37 AM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 11:41:37 AM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 11:41:37 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='image-grid']//div[@class='left-top']//img and  locatorType: xpath
+06/26/2019 11:41:37 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='image-grid']//div[@class='left-top']//img locatorType: xpath
+06/26/2019 11:41:39 AM - SeleniumDriver - INFO: Element found with locator: //span[contains(.,'Global catalog')] and  locatorType: xpath
+06/26/2019 11:41:39 AM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 11:41:39 AM - SeleniumDriver - INFO: The text is :: 'Global catalog'
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Global catalog
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Global catalog
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Element found with locator: //img[contains(@src,'https://lh4.googleusercontent.com/-l0Nse9g06Lk/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reoOmkz5csX7CYFMarjSm6XD9HFwQ/photo.jpg')] and  locatorType: xpath
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Element present with locator: //img[contains(@src,'https://lh4.googleusercontent.com/-l0Nse9g06Lk/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reoOmkz5csX7CYFMarjSm6XD9HFwQ/photo.jpg')] locatorType: xpath
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Element found with locator: //h2[contains(text(),'Filters')] and  locatorType: xpath
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: The text is :: 'Filters'
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Filters
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Filters
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Availability')] and  locatorType: xpath
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: The text is :: 'Availability'
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Availability
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Availability
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Collection')] and  locatorType: xpath
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: The text is :: 'Collection'
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Collection
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Collection
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Region')] and  locatorType: xpath
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: The text is :: 'Region'
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Region
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Region
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Type')] and  locatorType: xpath
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: The text is :: 'Type'
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Type
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Type
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Sub type')] and  locatorType: xpath
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: The text is :: 'Sub type'
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Sub type
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Sub type
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Manufacturer')] and  locatorType: xpath
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: The text is :: 'Manufacturer'
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Manufacturer
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Manufacturer
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Vendor')] and  locatorType: xpath
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: The text is :: 'Vendor'
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Vendor
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Vendor
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 11:41:40 AM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Material type')] and  locatorType: xpath
+06/26/2019 11:41:41 AM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 11:41:41 AM - SeleniumDriver - INFO: The text is :: 'Material type'
+06/26/2019 11:41:41 AM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Material type
+06/26/2019 11:41:41 AM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Material type
+06/26/2019 11:41:41 AM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 11:41:43 AM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Region')] and  locatorType: xpath
+06/26/2019 11:41:43 AM - SeleniumDriver - INFO: Element present with locator: //h4[contains(text(),'Region')] locatorType: xpath
+06/26/2019 11:41:43 AM - SeleniumDriver - INFO: Element found with locator: //div[4]//span[contains(text(),'See more')] and  locatorType: xpath
+06/26/2019 11:41:43 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[4]//span[contains(text(),'See more')] locatorType: xpath
+06/26/2019 11:41:45 AM - SeleniumDriver - INFO: Element found with locator: //span[contains(text(),'See Less')] and  locatorType: xpath
+06/26/2019 11:41:45 AM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 11:41:45 AM - SeleniumDriver - INFO: The text is :: 'See Less'
+06/26/2019 11:41:45 AM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: See Less
+06/26/2019 11:41:45 AM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: See Less
+06/26/2019 11:41:45 AM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 11:41:47 AM - SeleniumDriver - INFO: Element found with locator: //span[contains(text(),'See Less')] and  locatorType: xpath
+06/26/2019 11:41:47 AM - SeleniumDriver - INFO: Clicked on element with locator: //span[contains(text(),'See Less')] locatorType: xpath
+06/26/2019 11:41:49 AM - SeleniumDriver - INFO: Element found with locator: //div[4]//span[contains(text(),'See more')] and  locatorType: xpath
+06/26/2019 11:41:49 AM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 11:41:49 AM - SeleniumDriver - INFO: The text is :: 'See more'
+06/26/2019 11:41:49 AM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: See more
+06/26/2019 11:41:49 AM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: See more
+06/26/2019 11:41:49 AM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 11:41:51 AM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 11:41:51 AM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 11:41:51 AM - SeleniumDriver - INFO: Element found with locator: //label[contains(.,'Bulk 1.0')] and  locatorType: xpath
+06/26/2019 11:41:51 AM - SeleniumDriver - INFO: Clicked on element with locator: //label[contains(.,'Bulk 1.0')] locatorType: xpath
+06/26/2019 11:41:53 AM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 11:41:53 AM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 11:41:53 AM - SeleniumDriver - INFO: Element found with locator: //p[contains(text(),'Clear filters')] and  locatorType: xpath
+06/26/2019 11:41:53 AM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 11:41:53 AM - SeleniumDriver - INFO: The text is :: 'Clear filters'
+06/26/2019 11:41:53 AM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Clear filters
+06/26/2019 11:41:53 AM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Clear filters
+06/26/2019 11:41:53 AM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 11:42:00 AM - SeleniumDriver - INFO: Element found with locator: //p[contains(text(),'Clear filters')] and  locatorType: xpath
+06/26/2019 11:42:00 AM - SeleniumDriver - INFO: Clicked on element with locator: //p[contains(text(),'Clear filters')] locatorType: xpath
+06/26/2019 11:42:04 AM - SeleniumDriver - INFO: Element found with locator: //label[contains(.,'Bulk 1.0')] and  locatorType: xpath
+06/26/2019 11:42:04 AM - SeleniumDriver - INFO: Clicked on element with locator: //label[contains(.,'Bulk 1.0')] locatorType: xpath
+06/26/2019 11:42:09 AM - SeleniumDriver - INFO: Element found with locator: //label[contains(.,'Bulk 1.0')] and  locatorType: xpath
+06/26/2019 11:42:09 AM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 11:42:09 AM - SeleniumDriver - INFO: The text is :: 'Bulk 1.0'
+06/26/2019 11:42:09 AM - SeleniumDriver - INFO: Element found with locator: //div[5]//ul[1]//li[1]//div[1] and  locatorType: xpath
+06/26/2019 11:42:09 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[5]//ul[1]//li[1]//div[1] locatorType: xpath
+06/26/2019 11:42:11 AM - SeleniumDriver - INFO: Element found with locator: //div[5]//ul[1]//li[1]//div[1] and  locatorType: xpath
+06/26/2019 11:42:11 AM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 11:42:11 AM - SeleniumDriver - INFO: The text is :: 'Furniture'
+06/26/2019 11:42:14 AM - SeleniumDriver - INFO: Element found with locator: //div[6]//ul[1]//li[1]//div[1] and  locatorType: xpath
+06/26/2019 11:42:14 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[6]//ul[1]//li[1]//div[1] locatorType: xpath
+06/26/2019 11:42:17 AM - SeleniumDriver - INFO: Element found with locator: //div[6]//ul[1]//li[1]//div[1] and  locatorType: xpath
+06/26/2019 11:42:17 AM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 11:42:17 AM - SeleniumDriver - INFO: The text is :: 'Stool_bar'
+06/26/2019 11:42:20 AM - SeleniumDriver - INFO: Element found with locator: //div[7]//ul[1]//li[1]//div[1] and  locatorType: xpath
+06/26/2019 11:42:20 AM - SeleniumDriver - INFO: Clicked on element with locator: //div[7]//ul[1]//li[1]//div[1] locatorType: xpath
+06/26/2019 11:42:21 AM - SeleniumDriver - INFO: Element found with locator: //div[7]//ul[1]//li[1]//div[1] and  locatorType: xpath
+06/26/2019 11:42:21 AM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 11:42:21 AM - SeleniumDriver - INFO: The text is :: 'Brendan ravenhill'
+06/26/2019 11:42:24 AM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 11:42:24 AM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 11:42:24 AM - SeleniumDriver - INFO: Element found with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div and  locatorType: xpath
+06/26/2019 11:42:25 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div locatorType: xpath
+06/26/2019 11:42:28 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='rah-static rah-static--height-auto']//div[6]//span[2] and  locatorType: xpath
+06/26/2019 11:42:28 AM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 11:42:28 AM - SeleniumDriver - INFO: The text is :: 'Stool_bar'
+06/26/2019 11:42:28 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='rah-static rah-static--height-auto']//div[5]//span[2] and  locatorType: xpath
+06/26/2019 11:42:28 AM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 11:42:28 AM - SeleniumDriver - INFO: The text is :: 'Furniture'
+06/26/2019 11:42:28 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='rah-static rah-static--height-auto']//div[2]//span[2] and  locatorType: xpath
+06/26/2019 11:42:28 AM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 11:42:28 AM - SeleniumDriver - INFO: The text is :: 'Brendan ravenhill'
+06/26/2019 11:42:28 AM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Furniture
+06/26/2019 11:42:28 AM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Furniture
+06/26/2019 11:42:28 AM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 11:42:28 AM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Stool_bar
+06/26/2019 11:42:28 AM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Stool_bar
+06/26/2019 11:42:28 AM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 11:42:28 AM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Brendan ravenhill
+06/26/2019 11:42:28 AM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Brendan ravenhill
+06/26/2019 11:42:28 AM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 11:42:30 AM - SeleniumDriver - INFO: Element found with locator: //span[contains(.,'Global catalog')] and  locatorType: xpath
+06/26/2019 11:42:30 AM - SeleniumDriver - INFO: Clicked on element with locator: //span[contains(.,'Global catalog')] locatorType: xpath
+06/26/2019 11:42:32 AM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 11:42:32 AM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 11:42:32 AM - SeleniumDriver - INFO: Element found with locator: //p[contains(text(),'Clear filters')] and  locatorType: xpath
+06/26/2019 11:42:32 AM - SeleniumDriver - INFO: Clicked on element with locator: //p[contains(text(),'Clear filters')] locatorType: xpath
+06/26/2019 11:42:37 AM - SeleniumDriver - INFO: Element found with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div/div[2]/p[1] and  locatorType: xpath
+06/26/2019 11:42:37 AM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 11:42:37 AM - SeleniumDriver - INFO: The text is :: 'Pipeline 125 wall'
+06/26/2019 11:42:39 AM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 11:42:39 AM - SeleniumDriver - INFO: Clicked on element with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 11:42:45 AM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 11:42:45 AM - SeleniumDriver - INFO: Clear field with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 11:42:47 AM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 11:42:47 AM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 11:42:49 AM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 11:42:49 AM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 11:42:52 AM - SeleniumDriver - INFO: Element found with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div/div[2]/p[1] and  locatorType: xpath
+06/26/2019 11:42:52 AM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 11:42:52 AM - SeleniumDriver - INFO: The text is :: 'Pipeline 125 wall'
+06/26/2019 11:42:52 AM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Pipeline 125 wall
+06/26/2019 11:42:52 AM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Pipeline 125 wall
+06/26/2019 11:42:52 AM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 11:42:54 AM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 11:42:54 AM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 11:42:54 AM - SeleniumDriver - INFO: Element found with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div and  locatorType: xpath
+06/26/2019 11:42:54 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div locatorType: xpath
+06/26/2019 11:42:56 AM - SeleniumDriver - INFO: Element found with locator: //div[@class='sc-ifAKCX cZFrkc']//div[1]//span[@class='sc-dnqmqq QqDcF'] and  locatorType: xpath
+06/26/2019 11:42:56 AM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 11:42:56 AM - SeleniumDriver - INFO: The text is :: 'WW-LDW13W-ANL-21672-16B'
+06/26/2019 11:42:57 AM - SeleniumDriver - INFO: Element found with locator: //span[contains(.,'Global catalog')] and  locatorType: xpath
+06/26/2019 11:42:57 AM - SeleniumDriver - INFO: Clicked on element with locator: //span[contains(.,'Global catalog')] locatorType: xpath
+06/26/2019 11:43:01 AM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 11:43:01 AM - SeleniumDriver - INFO: Clear field with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 11:43:03 AM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 11:43:03 AM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 11:43:05 AM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 11:43:05 AM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 11:43:07 AM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 11:43:07 AM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 11:43:07 AM - SeleniumDriver - INFO: Element found with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div and  locatorType: xpath
+06/26/2019 11:43:07 AM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div locatorType: xpath
+06/26/2019 11:43:15 AM - SeleniumDriver - INFO: Element not found with locator: //div[@class='sc-ifAKCX cZFrkc']//div[1]//span[@class='sc-dnqmqq QqDcF'] and  locatorType: xpath
+06/26/2019 11:43:15 AM - SeleniumDriver - ERROR: Failed to get text on element 
+06/26/2019 11:43:17 AM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: WW-LDW13W-ANL-21672-16B
+06/26/2019 12:03:54 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 12:03:55 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 12:03:55 PM - SeleniumDriver - INFO: Element found with locator: //div[@class='auth0-lock-social-button-text'] and  locatorType: xpath
+06/26/2019 12:03:58 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='auth0-lock-social-button-text'] locatorType: xpath
+06/26/2019 12:04:00 PM - SeleniumDriver - INFO: Locator type //input[@id='identifierid'] not correct/supported
+06/26/2019 12:04:00 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 12:04:00 PM - SeleniumDriver - INFO: Element not appeared on the web page
+06/26/2019 12:04:00 PM - SeleniumDriver - INFO: Element found with locator: //input[@id='identifierId'] and  locatorType: xpath
+06/26/2019 12:04:00 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='identifierId'] locatorType: xpath
+06/26/2019 12:04:02 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 12:04:02 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 12:04:02 PM - SeleniumDriver - INFO: Element found with locator: //span[contains(text(),'Next')] and  locatorType: xpath
+06/26/2019 12:04:02 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[contains(text(),'Next')] locatorType: xpath
+06/26/2019 12:04:04 PM - SeleniumDriver - INFO: Locator type //input[@name='password'] not correct/supported
+06/26/2019 12:04:04 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 12:04:04 PM - SeleniumDriver - INFO: Element not appeared on the web page
+06/26/2019 12:04:04 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='password'] and  locatorType: xpath
+06/26/2019 12:04:05 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@name='password'] locatorType: xpath
+06/26/2019 12:04:07 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 12:04:07 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 12:04:07 PM - SeleniumDriver - INFO: Element found with locator: //span[contains(text(),'Next')] and  locatorType: xpath
+06/26/2019 12:04:07 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[contains(text(),'Next')] locatorType: xpath
+06/26/2019 12:04:22 PM - SeleniumDriver - INFO: Element found with locator: //p[contains(text(),'Phoenix global catalog')] and  locatorType: xpath
+06/26/2019 12:04:22 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:04:22 PM - SeleniumDriver - INFO: The text is :: 'Phoenix global catalog'
+06/26/2019 12:04:22 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Phoenix global catalog
+06/26/2019 12:04:22 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Phoenix global catalog
+06/26/2019 12:04:22 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:04:22 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 12:04:22 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 12:04:22 PM - SeleniumDriver - INFO: Element found with locator: //div[@class='image-grid']//div[@class='left-top']//img and  locatorType: xpath
+06/26/2019 12:04:22 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='image-grid']//div[@class='left-top']//img locatorType: xpath
+06/26/2019 12:04:24 PM - SeleniumDriver - INFO: Element found with locator: //span[contains(.,'Global catalog')] and  locatorType: xpath
+06/26/2019 12:04:24 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:04:24 PM - SeleniumDriver - INFO: The text is :: 'Global catalog'
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Global catalog
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Global catalog
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Element found with locator: //img[contains(@src,'https://lh4.googleusercontent.com/-l0Nse9g06Lk/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reoOmkz5csX7CYFMarjSm6XD9HFwQ/photo.jpg')] and  locatorType: xpath
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Element present with locator: //img[contains(@src,'https://lh4.googleusercontent.com/-l0Nse9g06Lk/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reoOmkz5csX7CYFMarjSm6XD9HFwQ/photo.jpg')] locatorType: xpath
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Element found with locator: //h2[contains(text(),'Filters')] and  locatorType: xpath
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: The text is :: 'Filters'
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Filters
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Filters
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Availability')] and  locatorType: xpath
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: The text is :: 'Availability'
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Availability
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Availability
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Collection')] and  locatorType: xpath
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: The text is :: 'Collection'
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Collection
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Collection
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Region')] and  locatorType: xpath
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: The text is :: 'Region'
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Region
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Region
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Type')] and  locatorType: xpath
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: The text is :: 'Type'
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Type
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Type
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Sub type')] and  locatorType: xpath
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: The text is :: 'Sub type'
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Sub type
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Sub type
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Manufacturer')] and  locatorType: xpath
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: The text is :: 'Manufacturer'
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Manufacturer
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Manufacturer
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Vendor')] and  locatorType: xpath
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: The text is :: 'Vendor'
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Vendor
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Vendor
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Material type')] and  locatorType: xpath
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: The text is :: 'Material type'
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Material type
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Material type
+06/26/2019 12:04:25 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:04:27 PM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Region')] and  locatorType: xpath
+06/26/2019 12:04:27 PM - SeleniumDriver - INFO: Element present with locator: //h4[contains(text(),'Region')] locatorType: xpath
+06/26/2019 12:04:27 PM - SeleniumDriver - INFO: Element found with locator: //div[4]//span[contains(text(),'See more')] and  locatorType: xpath
+06/26/2019 12:04:27 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[4]//span[contains(text(),'See more')] locatorType: xpath
+06/26/2019 12:04:30 PM - SeleniumDriver - INFO: Element found with locator: //span[contains(text(),'See Less')] and  locatorType: xpath
+06/26/2019 12:04:30 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:04:30 PM - SeleniumDriver - INFO: The text is :: 'See Less'
+06/26/2019 12:04:30 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: See Less
+06/26/2019 12:04:30 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: See Less
+06/26/2019 12:04:30 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:04:32 PM - SeleniumDriver - INFO: Element found with locator: //span[contains(text(),'See Less')] and  locatorType: xpath
+06/26/2019 12:04:32 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[contains(text(),'See Less')] locatorType: xpath
+06/26/2019 12:04:34 PM - SeleniumDriver - INFO: Element found with locator: //div[4]//span[contains(text(),'See more')] and  locatorType: xpath
+06/26/2019 12:04:34 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:04:34 PM - SeleniumDriver - INFO: The text is :: 'See more'
+06/26/2019 12:04:34 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: See more
+06/26/2019 12:04:34 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: See more
+06/26/2019 12:04:34 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:04:36 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 12:04:36 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 12:04:36 PM - SeleniumDriver - INFO: Element found with locator: //label[contains(.,'Bulk 1.0')] and  locatorType: xpath
+06/26/2019 12:04:36 PM - SeleniumDriver - INFO: Clicked on element with locator: //label[contains(.,'Bulk 1.0')] locatorType: xpath
+06/26/2019 12:04:38 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 12:04:38 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 12:04:38 PM - SeleniumDriver - INFO: Element found with locator: //p[contains(text(),'Clear filters')] and  locatorType: xpath
+06/26/2019 12:04:38 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:04:38 PM - SeleniumDriver - INFO: The text is :: 'Clear filters'
+06/26/2019 12:04:38 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Clear filters
+06/26/2019 12:04:38 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Clear filters
+06/26/2019 12:04:38 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:04:45 PM - SeleniumDriver - INFO: Element found with locator: //p[contains(text(),'Clear filters')] and  locatorType: xpath
+06/26/2019 12:04:45 PM - SeleniumDriver - INFO: Clicked on element with locator: //p[contains(text(),'Clear filters')] locatorType: xpath
+06/26/2019 12:04:48 PM - SeleniumDriver - INFO: Element found with locator: //label[contains(.,'Bulk 1.0')] and  locatorType: xpath
+06/26/2019 12:04:48 PM - SeleniumDriver - INFO: Clicked on element with locator: //label[contains(.,'Bulk 1.0')] locatorType: xpath
+06/26/2019 12:04:51 PM - SeleniumDriver - INFO: Element found with locator: //label[contains(.,'Bulk 1.0')] and  locatorType: xpath
+06/26/2019 12:04:51 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:04:51 PM - SeleniumDriver - INFO: The text is :: 'Bulk 1.0'
+06/26/2019 12:04:51 PM - SeleniumDriver - INFO: Element found with locator: //div[5]//ul[1]//li[1]//div[1] and  locatorType: xpath
+06/26/2019 12:04:51 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[5]//ul[1]//li[1]//div[1] locatorType: xpath
+06/26/2019 12:04:53 PM - SeleniumDriver - INFO: Element found with locator: //div[5]//ul[1]//li[1]//div[1] and  locatorType: xpath
+06/26/2019 12:04:53 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:04:53 PM - SeleniumDriver - INFO: The text is :: 'Furniture'
+06/26/2019 12:04:56 PM - SeleniumDriver - INFO: Element found with locator: //div[6]//ul[1]//li[1]//div[1] and  locatorType: xpath
+06/26/2019 12:04:57 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[6]//ul[1]//li[1]//div[1] locatorType: xpath
+06/26/2019 12:04:57 PM - SeleniumDriver - INFO: Element found with locator: //div[6]//ul[1]//li[1]//div[1] and  locatorType: xpath
+06/26/2019 12:04:57 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:04:57 PM - SeleniumDriver - INFO: The text is :: 'Stool_bar'
+06/26/2019 12:05:00 PM - SeleniumDriver - INFO: Element found with locator: //div[7]//ul[1]//li[1]//div[1] and  locatorType: xpath
+06/26/2019 12:05:00 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[7]//ul[1]//li[1]//div[1] locatorType: xpath
+06/26/2019 12:05:01 PM - SeleniumDriver - INFO: Element found with locator: //div[7]//ul[1]//li[1]//div[1] and  locatorType: xpath
+06/26/2019 12:05:01 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:05:01 PM - SeleniumDriver - INFO: The text is :: 'Brendan ravenhill'
+06/26/2019 12:05:04 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 12:05:04 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 12:05:04 PM - SeleniumDriver - INFO: Element found with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div and  locatorType: xpath
+06/26/2019 12:05:04 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div locatorType: xpath
+06/26/2019 12:05:07 PM - SeleniumDriver - INFO: Element found with locator: //div[@class='rah-static rah-static--height-auto']//div[6]//span[2] and  locatorType: xpath
+06/26/2019 12:05:07 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:05:07 PM - SeleniumDriver - INFO: The text is :: 'Stool_bar'
+06/26/2019 12:05:07 PM - SeleniumDriver - INFO: Element found with locator: //div[@class='rah-static rah-static--height-auto']//div[5]//span[2] and  locatorType: xpath
+06/26/2019 12:05:07 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:05:07 PM - SeleniumDriver - INFO: The text is :: 'Furniture'
+06/26/2019 12:05:07 PM - SeleniumDriver - INFO: Element found with locator: //div[@class='rah-static rah-static--height-auto']//div[2]//span[2] and  locatorType: xpath
+06/26/2019 12:05:07 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:05:07 PM - SeleniumDriver - INFO: The text is :: 'Brendan ravenhill'
+06/26/2019 12:05:07 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Furniture
+06/26/2019 12:05:07 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Furniture
+06/26/2019 12:05:07 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:05:07 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Stool_bar
+06/26/2019 12:05:07 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Stool_bar
+06/26/2019 12:05:07 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:05:07 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Brendan ravenhill
+06/26/2019 12:05:07 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Brendan ravenhill
+06/26/2019 12:05:07 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:05:09 PM - SeleniumDriver - INFO: Element found with locator: //span[contains(.,'Global catalog')] and  locatorType: xpath
+06/26/2019 12:05:09 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[contains(.,'Global catalog')] locatorType: xpath
+06/26/2019 12:05:11 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 12:05:12 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 12:05:12 PM - SeleniumDriver - INFO: Element found with locator: //p[contains(text(),'Clear filters')] and  locatorType: xpath
+06/26/2019 12:05:12 PM - SeleniumDriver - INFO: Clicked on element with locator: //p[contains(text(),'Clear filters')] locatorType: xpath
+06/26/2019 12:05:17 PM - SeleniumDriver - INFO: Element found with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div/div[2]/p[1] and  locatorType: xpath
+06/26/2019 12:05:17 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:05:17 PM - SeleniumDriver - INFO: The text is :: 'Pipeline 125 wall'
+06/26/2019 12:05:19 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 12:05:19 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 12:05:25 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 12:05:25 PM - SeleniumDriver - INFO: Clear field with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 12:05:27 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 12:05:27 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 12:05:29 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 12:05:29 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 12:05:31 PM - SeleniumDriver - INFO: Element found with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div/div[2]/p[1] and  locatorType: xpath
+06/26/2019 12:05:31 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:05:31 PM - SeleniumDriver - INFO: The text is :: 'Pipeline 125 wall'
+06/26/2019 12:05:31 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Pipeline 125 wall
+06/26/2019 12:05:31 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Pipeline 125 wall
+06/26/2019 12:05:31 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:05:33 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 12:05:33 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 12:05:33 PM - SeleniumDriver - INFO: Element found with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div and  locatorType: xpath
+06/26/2019 12:05:33 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div locatorType: xpath
+06/26/2019 12:05:35 PM - SeleniumDriver - INFO: Element found with locator: //div[@class='sc-ifAKCX cZFrkc']//div[1]//span[@class='sc-dnqmqq QqDcF'] and  locatorType: xpath
+06/26/2019 12:05:35 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:05:35 PM - SeleniumDriver - INFO: The text is :: 'WW-LDW13W-ANL-21672-16B'
+06/26/2019 12:05:36 PM - SeleniumDriver - INFO: Element found with locator: //span[contains(.,'Global catalog')] and  locatorType: xpath
+06/26/2019 12:05:37 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[contains(.,'Global catalog')] locatorType: xpath
+06/26/2019 12:05:41 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 12:05:41 PM - SeleniumDriver - INFO: Clear field with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 12:05:43 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 12:05:43 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 12:05:45 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 12:05:45 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 12:05:47 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 12:05:47 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 12:05:47 PM - SeleniumDriver - INFO: Element found with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div and  locatorType: xpath
+06/26/2019 12:05:47 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div locatorType: xpath
+06/26/2019 12:05:52 PM - SeleniumDriver - INFO: Element found with locator: //div[@class='sc-ifAKCX cZFrkc']//div[1]//span[@class='sc-dnqmqq QqDcF'] and  locatorType: xpath
+06/26/2019 12:05:52 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:05:52 PM - SeleniumDriver - INFO: The text is :: 'WW-LDW13W-ANL-21672-16B'
+06/26/2019 12:05:54 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: WW-LDW13W-ANL-21672-16B
+06/26/2019 12:05:54 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: WW-LDW13W-ANL-21672-16B
+06/26/2019 12:05:54 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:05:54 PM - SeleniumDriver - INFO: Element found with locator: //span[contains(.,'Global catalog')] and  locatorType: xpath
+06/26/2019 12:05:54 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[contains(.,'Global catalog')] locatorType: xpath
+06/26/2019 12:05:58 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 12:05:58 PM - SeleniumDriver - INFO: Clear field with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 12:06:00 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 12:06:01 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 12:06:03 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 12:06:03 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 12:06:05 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 12:06:05 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 12:06:05 PM - SeleniumDriver - INFO: Element found with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div and  locatorType: xpath
+06/26/2019 12:06:05 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div locatorType: xpath
+06/26/2019 12:06:13 PM - SeleniumDriver - INFO: Element not found with locator: //div[@class='sc-ifAKCX cZFrkc']//div[1]//span[@class='sc-dnqmqq QqDcF'] and  locatorType: xpath
+06/26/2019 12:06:13 PM - SeleniumDriver - ERROR: Failed to get text on element 
+06/26/2019 12:45:36 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 12:45:36 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 12:45:36 PM - SeleniumDriver - INFO: Element found with locator: //div[@class='auth0-lock-social-button-text'] and  locatorType: xpath
+06/26/2019 12:45:38 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='auth0-lock-social-button-text'] locatorType: xpath
+06/26/2019 12:45:40 PM - SeleniumDriver - INFO: Locator type //input[@id='identifierid'] not correct/supported
+06/26/2019 12:45:40 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 12:45:44 PM - SeleniumDriver - INFO: Element not appeared on the web page
+06/26/2019 12:45:44 PM - SeleniumDriver - INFO: Element found with locator: //input[@id='identifierId'] and  locatorType: xpath
+06/26/2019 12:45:45 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='identifierId'] locatorType: xpath
+06/26/2019 12:45:47 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 12:45:47 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 12:45:47 PM - SeleniumDriver - INFO: Element found with locator: //span[contains(text(),'Next')] and  locatorType: xpath
+06/26/2019 12:45:47 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[contains(text(),'Next')] locatorType: xpath
+06/26/2019 12:45:49 PM - SeleniumDriver - INFO: Locator type //input[@name='password'] not correct/supported
+06/26/2019 12:45:49 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 12:45:49 PM - SeleniumDriver - INFO: Element not appeared on the web page
+06/26/2019 12:45:49 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='password'] and  locatorType: xpath
+06/26/2019 12:45:49 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@name='password'] locatorType: xpath
+06/26/2019 12:45:51 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 12:45:51 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 12:45:51 PM - SeleniumDriver - INFO: Element found with locator: //span[contains(text(),'Next')] and  locatorType: xpath
+06/26/2019 12:45:51 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[contains(text(),'Next')] locatorType: xpath
+06/26/2019 12:46:06 PM - SeleniumDriver - INFO: Element found with locator: //p[contains(text(),'Phoenix global catalog')] and  locatorType: xpath
+06/26/2019 12:46:06 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:46:06 PM - SeleniumDriver - INFO: The text is :: 'Phoenix global catalog'
+06/26/2019 12:46:06 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Phoenix global catalog
+06/26/2019 12:46:06 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Phoenix global catalog
+06/26/2019 12:46:06 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:46:06 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 12:46:06 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 12:46:06 PM - SeleniumDriver - INFO: Element found with locator: //div[@class='image-grid']//div[@class='left-top']//img and  locatorType: xpath
+06/26/2019 12:46:06 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='image-grid']//div[@class='left-top']//img locatorType: xpath
+06/26/2019 12:46:09 PM - SeleniumDriver - INFO: Element found with locator: //span[contains(.,'Global catalog')] and  locatorType: xpath
+06/26/2019 12:46:09 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:46:09 PM - SeleniumDriver - INFO: The text is :: 'Global catalog'
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Global catalog
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Global catalog
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Element found with locator: //img[contains(@src,'https://lh4.googleusercontent.com/-l0Nse9g06Lk/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reoOmkz5csX7CYFMarjSm6XD9HFwQ/photo.jpg')] and  locatorType: xpath
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Element present with locator: //img[contains(@src,'https://lh4.googleusercontent.com/-l0Nse9g06Lk/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reoOmkz5csX7CYFMarjSm6XD9HFwQ/photo.jpg')] locatorType: xpath
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Element found with locator: //h2[contains(text(),'Filters')] and  locatorType: xpath
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: The text is :: 'Filters'
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Filters
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Filters
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Availability')] and  locatorType: xpath
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: The text is :: 'Availability'
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Availability
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Availability
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Collection')] and  locatorType: xpath
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: The text is :: 'Collection'
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Collection
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Collection
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Region')] and  locatorType: xpath
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: The text is :: 'Region'
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Region
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Region
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Type')] and  locatorType: xpath
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: The text is :: 'Type'
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Type
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Type
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Sub type')] and  locatorType: xpath
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: The text is :: 'Sub type'
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Sub type
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Sub type
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Manufacturer')] and  locatorType: xpath
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: The text is :: 'Manufacturer'
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Manufacturer
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Manufacturer
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Vendor')] and  locatorType: xpath
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: The text is :: 'Vendor'
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Vendor
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Vendor
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Material type')] and  locatorType: xpath
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: The text is :: 'Material type'
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Material type
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Material type
+06/26/2019 12:46:10 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:46:12 PM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Region')] and  locatorType: xpath
+06/26/2019 12:46:12 PM - SeleniumDriver - INFO: Element present with locator: //h4[contains(text(),'Region')] locatorType: xpath
+06/26/2019 12:46:12 PM - SeleniumDriver - INFO: Element found with locator: //div[4]//span[contains(text(),'See more')] and  locatorType: xpath
+06/26/2019 12:46:12 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[4]//span[contains(text(),'See more')] locatorType: xpath
+06/26/2019 12:46:14 PM - SeleniumDriver - INFO: Element found with locator: //span[contains(text(),'See Less')] and  locatorType: xpath
+06/26/2019 12:46:14 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:46:14 PM - SeleniumDriver - INFO: The text is :: 'See Less'
+06/26/2019 12:46:14 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: See Less
+06/26/2019 12:46:14 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: See Less
+06/26/2019 12:46:14 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:46:16 PM - SeleniumDriver - INFO: Element found with locator: //span[contains(text(),'See Less')] and  locatorType: xpath
+06/26/2019 12:46:16 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[contains(text(),'See Less')] locatorType: xpath
+06/26/2019 12:46:18 PM - SeleniumDriver - INFO: Element found with locator: //div[4]//span[contains(text(),'See more')] and  locatorType: xpath
+06/26/2019 12:46:18 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:46:18 PM - SeleniumDriver - INFO: The text is :: 'See more'
+06/26/2019 12:46:18 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: See more
+06/26/2019 12:46:18 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: See more
+06/26/2019 12:46:18 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:46:20 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 12:46:20 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 12:46:20 PM - SeleniumDriver - INFO: Element found with locator: //label[contains(.,'Bulk 1.0')] and  locatorType: xpath
+06/26/2019 12:46:20 PM - SeleniumDriver - INFO: Clicked on element with locator: //label[contains(.,'Bulk 1.0')] locatorType: xpath
+06/26/2019 12:46:22 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 12:46:22 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 12:46:22 PM - SeleniumDriver - INFO: Element found with locator: //p[contains(text(),'Clear filters')] and  locatorType: xpath
+06/26/2019 12:46:22 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:46:22 PM - SeleniumDriver - INFO: The text is :: 'Clear filters'
+06/26/2019 12:46:22 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Clear filters
+06/26/2019 12:46:22 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Clear filters
+06/26/2019 12:46:22 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:46:29 PM - SeleniumDriver - INFO: Element found with locator: //p[contains(text(),'Clear filters')] and  locatorType: xpath
+06/26/2019 12:46:30 PM - SeleniumDriver - INFO: Clicked on element with locator: //p[contains(text(),'Clear filters')] locatorType: xpath
+06/26/2019 12:46:33 PM - SeleniumDriver - INFO: Element found with locator: //label[contains(.,'Bulk 1.0')] and  locatorType: xpath
+06/26/2019 12:46:33 PM - SeleniumDriver - INFO: Clicked on element with locator: //label[contains(.,'Bulk 1.0')] locatorType: xpath
+06/26/2019 12:46:36 PM - SeleniumDriver - INFO: Element found with locator: //label[contains(.,'Bulk 1.0')] and  locatorType: xpath
+06/26/2019 12:46:36 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:46:36 PM - SeleniumDriver - INFO: The text is :: 'Bulk 1.0'
+06/26/2019 12:46:36 PM - SeleniumDriver - INFO: Element found with locator: //div[5]//ul[1]//li[1]//div[1] and  locatorType: xpath
+06/26/2019 12:46:36 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[5]//ul[1]//li[1]//div[1] locatorType: xpath
+06/26/2019 12:46:38 PM - SeleniumDriver - INFO: Element found with locator: //div[5]//ul[1]//li[1]//div[1] and  locatorType: xpath
+06/26/2019 12:46:38 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:46:38 PM - SeleniumDriver - INFO: The text is :: 'Furniture'
+06/26/2019 12:46:41 PM - SeleniumDriver - INFO: Element found with locator: //div[6]//ul[1]//li[1]//div[1] and  locatorType: xpath
+06/26/2019 12:46:41 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[6]//ul[1]//li[1]//div[1] locatorType: xpath
+06/26/2019 12:46:41 PM - SeleniumDriver - INFO: Element found with locator: //div[6]//ul[1]//li[1]//div[1] and  locatorType: xpath
+06/26/2019 12:46:41 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:46:41 PM - SeleniumDriver - INFO: The text is :: 'Stool_bar'
+06/26/2019 12:46:44 PM - SeleniumDriver - INFO: Element found with locator: //div[7]//ul[1]//li[1]//div[1] and  locatorType: xpath
+06/26/2019 12:46:45 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[7]//ul[1]//li[1]//div[1] locatorType: xpath
+06/26/2019 12:46:45 PM - SeleniumDriver - INFO: Element found with locator: //div[7]//ul[1]//li[1]//div[1] and  locatorType: xpath
+06/26/2019 12:46:45 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:46:45 PM - SeleniumDriver - INFO: The text is :: 'Brendan ravenhill'
+06/26/2019 12:46:48 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 12:46:48 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 12:46:48 PM - SeleniumDriver - INFO: Element found with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div and  locatorType: xpath
+06/26/2019 12:46:48 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div locatorType: xpath
+06/26/2019 12:46:51 PM - SeleniumDriver - INFO: Element found with locator: //div[@class='rah-static rah-static--height-auto']//div[6]//span[2] and  locatorType: xpath
+06/26/2019 12:46:51 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:46:51 PM - SeleniumDriver - INFO: The text is :: 'Stool_bar'
+06/26/2019 12:46:51 PM - SeleniumDriver - INFO: Element found with locator: //div[@class='rah-static rah-static--height-auto']//div[5]//span[2] and  locatorType: xpath
+06/26/2019 12:46:51 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:46:51 PM - SeleniumDriver - INFO: The text is :: 'Furniture'
+06/26/2019 12:46:51 PM - SeleniumDriver - INFO: Element found with locator: //div[@class='rah-static rah-static--height-auto']//div[2]//span[2] and  locatorType: xpath
+06/26/2019 12:46:51 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:46:51 PM - SeleniumDriver - INFO: The text is :: 'Brendan ravenhill'
+06/26/2019 12:46:51 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Furniture
+06/26/2019 12:46:51 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Furniture
+06/26/2019 12:46:51 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:46:51 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Stool_bar
+06/26/2019 12:46:51 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Stool_bar
+06/26/2019 12:46:51 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:46:51 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Brendan ravenhill
+06/26/2019 12:46:51 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Brendan ravenhill
+06/26/2019 12:46:51 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:46:53 PM - SeleniumDriver - INFO: Element found with locator: //span[contains(.,'Global catalog')] and  locatorType: xpath
+06/26/2019 12:46:53 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[contains(.,'Global catalog')] locatorType: xpath
+06/26/2019 12:46:55 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 12:46:55 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 12:46:56 PM - SeleniumDriver - INFO: Element found with locator: //p[contains(text(),'Clear filters')] and  locatorType: xpath
+06/26/2019 12:46:56 PM - SeleniumDriver - INFO: Clicked on element with locator: //p[contains(text(),'Clear filters')] locatorType: xpath
+06/26/2019 12:47:01 PM - SeleniumDriver - INFO: Element found with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div/div[2]/p[1] and  locatorType: xpath
+06/26/2019 12:47:01 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:47:01 PM - SeleniumDriver - INFO: The text is :: 'Pipeline 125 wall'
+06/26/2019 12:47:03 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 12:47:03 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 12:47:09 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 12:47:09 PM - SeleniumDriver - INFO: Clear field with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 12:47:11 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 12:47:11 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 12:47:13 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 12:47:13 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 12:47:15 PM - SeleniumDriver - INFO: Element found with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div/div[2]/p[1] and  locatorType: xpath
+06/26/2019 12:47:15 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:47:15 PM - SeleniumDriver - INFO: The text is :: 'Pipeline 125 wall'
+06/26/2019 12:47:15 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Pipeline 125 wall
+06/26/2019 12:47:15 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Pipeline 125 wall
+06/26/2019 12:47:15 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:47:17 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 12:47:17 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 12:47:17 PM - SeleniumDriver - INFO: Element found with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div and  locatorType: xpath
+06/26/2019 12:47:17 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div locatorType: xpath
+06/26/2019 12:47:19 PM - SeleniumDriver - INFO: Element found with locator: //div[@class='sc-ifAKCX cZFrkc']//div[1]//span[@class='sc-dnqmqq QqDcF'] and  locatorType: xpath
+06/26/2019 12:47:19 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:47:19 PM - SeleniumDriver - INFO: The text is :: 'WW-LDW13W-ANL-21672-16B'
+06/26/2019 12:47:20 PM - SeleniumDriver - INFO: Element found with locator: //span[contains(.,'Global catalog')] and  locatorType: xpath
+06/26/2019 12:47:21 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[contains(.,'Global catalog')] locatorType: xpath
+06/26/2019 12:47:25 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 12:47:25 PM - SeleniumDriver - INFO: Clear field with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 12:47:27 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 12:47:27 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 12:47:29 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 12:47:29 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 12:47:31 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 12:47:31 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 12:47:31 PM - SeleniumDriver - INFO: Element found with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div and  locatorType: xpath
+06/26/2019 12:47:31 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div locatorType: xpath
+06/26/2019 12:47:36 PM - SeleniumDriver - INFO: Element found with locator: //div[@class='sc-ifAKCX cZFrkc']//div[1]//span[@class='sc-dnqmqq QqDcF'] and  locatorType: xpath
+06/26/2019 12:47:36 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 12:47:36 PM - SeleniumDriver - INFO: The text is :: 'WW-LDW13W-ANL-21672-16B'
+06/26/2019 12:47:38 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: WW-LDW13W-ANL-21672-16B
+06/26/2019 12:47:38 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: WW-LDW13W-ANL-21672-16B
+06/26/2019 12:47:38 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 12:47:38 PM - SeleniumDriver - INFO: Element found with locator: //span[contains(.,'Global catalog')] and  locatorType: xpath
+06/26/2019 12:47:38 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[contains(.,'Global catalog')] locatorType: xpath
+06/26/2019 12:47:42 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 12:47:42 PM - SeleniumDriver - INFO: Clear field with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 12:47:44 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 12:47:45 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 12:47:47 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 12:47:47 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 12:47:49 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 12:47:49 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 12:47:49 PM - SeleniumDriver - INFO: Element found with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div and  locatorType: xpath
+06/26/2019 12:47:49 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div locatorType: xpath
+06/26/2019 12:47:57 PM - SeleniumDriver - INFO: Element not found with locator: //div[@class='sc-ifAKCX cZFrkc']//div[1]//span[@class='sc-dnqmqq QqDcF'] and  locatorType: xpath
+06/26/2019 12:47:57 PM - SeleniumDriver - ERROR: Failed to get text on element 
+06/26/2019 02:12:45 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 02:12:45 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 02:12:45 PM - SeleniumDriver - INFO: Element found with locator: //div[@class='auth0-lock-social-button-text'] and  locatorType: xpath
+06/26/2019 02:12:51 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='auth0-lock-social-button-text'] locatorType: xpath
+06/26/2019 02:12:53 PM - SeleniumDriver - INFO: Locator type //input[@id='identifierid'] not correct/supported
+06/26/2019 02:12:53 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 02:12:53 PM - SeleniumDriver - INFO: Element not appeared on the web page
+06/26/2019 02:12:53 PM - SeleniumDriver - INFO: Element found with locator: //input[@id='identifierId'] and  locatorType: xpath
+06/26/2019 02:12:54 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='identifierId'] locatorType: xpath
+06/26/2019 02:12:56 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 02:12:56 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 02:12:56 PM - SeleniumDriver - INFO: Element found with locator: //span[contains(text(),'Next')] and  locatorType: xpath
+06/26/2019 02:12:56 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[contains(text(),'Next')] locatorType: xpath
+06/26/2019 02:12:58 PM - SeleniumDriver - INFO: Locator type //input[@name='password'] not correct/supported
+06/26/2019 02:12:58 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 02:12:58 PM - SeleniumDriver - INFO: Element not appeared on the web page
+06/26/2019 02:12:58 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='password'] and  locatorType: xpath
+06/26/2019 02:12:58 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@name='password'] locatorType: xpath
+06/26/2019 02:13:00 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 02:13:00 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 02:13:00 PM - SeleniumDriver - INFO: Element found with locator: //span[contains(text(),'Next')] and  locatorType: xpath
+06/26/2019 02:13:00 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[contains(text(),'Next')] locatorType: xpath
+06/26/2019 02:13:27 PM - SeleniumDriver - INFO: Element found with locator: //p[contains(text(),'Phoenix global catalog')] and  locatorType: xpath
+06/26/2019 02:13:27 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:13:27 PM - SeleniumDriver - INFO: The text is :: 'Phoenix global catalog'
+06/26/2019 02:13:27 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Phoenix global catalog
+06/26/2019 02:13:27 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Phoenix global catalog
+06/26/2019 02:13:27 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:13:27 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 02:13:27 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 02:13:27 PM - SeleniumDriver - INFO: Element found with locator: //div[@class='image-grid']//div[@class='left-top']//img and  locatorType: xpath
+06/26/2019 02:13:28 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='image-grid']//div[@class='left-top']//img locatorType: xpath
+06/26/2019 02:13:30 PM - SeleniumDriver - INFO: Element found with locator: //span[contains(.,'Global catalog')] and  locatorType: xpath
+06/26/2019 02:13:30 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:13:30 PM - SeleniumDriver - INFO: The text is :: 'Global catalog'
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Global catalog
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Global catalog
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Element found with locator: //img[contains(@src,'https://lh4.googleusercontent.com/-l0Nse9g06Lk/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reoOmkz5csX7CYFMarjSm6XD9HFwQ/photo.jpg')] and  locatorType: xpath
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Element present with locator: //img[contains(@src,'https://lh4.googleusercontent.com/-l0Nse9g06Lk/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reoOmkz5csX7CYFMarjSm6XD9HFwQ/photo.jpg')] locatorType: xpath
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Element found with locator: //h2[contains(text(),'Filters')] and  locatorType: xpath
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: The text is :: 'Filters'
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Filters
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Filters
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Availability')] and  locatorType: xpath
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: The text is :: 'Availability'
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Availability
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Availability
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Collection')] and  locatorType: xpath
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: The text is :: 'Collection'
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Collection
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Collection
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Region')] and  locatorType: xpath
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: The text is :: 'Region'
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Region
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Region
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Type')] and  locatorType: xpath
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: The text is :: 'Type'
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Type
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Type
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Sub type')] and  locatorType: xpath
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: The text is :: 'Sub type'
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Sub type
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Sub type
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Manufacturer')] and  locatorType: xpath
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: The text is :: 'Manufacturer'
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Manufacturer
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Manufacturer
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Vendor')] and  locatorType: xpath
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: The text is :: 'Vendor'
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Vendor
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Vendor
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Material type')] and  locatorType: xpath
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: The text is :: 'Material type'
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Material type
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Material type
+06/26/2019 02:13:31 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:13:33 PM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Region')] and  locatorType: xpath
+06/26/2019 02:13:33 PM - SeleniumDriver - INFO: Element present with locator: //h4[contains(text(),'Region')] locatorType: xpath
+06/26/2019 02:13:33 PM - SeleniumDriver - INFO: Element found with locator: //div[4]//span[contains(text(),'See more')] and  locatorType: xpath
+06/26/2019 02:13:33 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[4]//span[contains(text(),'See more')] locatorType: xpath
+06/26/2019 02:13:35 PM - SeleniumDriver - INFO: Element found with locator: //span[contains(text(),'See Less')] and  locatorType: xpath
+06/26/2019 02:13:35 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:13:35 PM - SeleniumDriver - INFO: The text is :: 'See Less'
+06/26/2019 02:13:35 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: See Less
+06/26/2019 02:13:35 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: See Less
+06/26/2019 02:13:35 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:13:37 PM - SeleniumDriver - INFO: Element found with locator: //span[contains(text(),'See Less')] and  locatorType: xpath
+06/26/2019 02:13:37 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[contains(text(),'See Less')] locatorType: xpath
+06/26/2019 02:13:39 PM - SeleniumDriver - INFO: Element found with locator: //div[4]//span[contains(text(),'See more')] and  locatorType: xpath
+06/26/2019 02:13:39 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:13:39 PM - SeleniumDriver - INFO: The text is :: 'See more'
+06/26/2019 02:13:39 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: See more
+06/26/2019 02:13:39 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: See more
+06/26/2019 02:13:39 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:13:41 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 02:13:41 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 02:13:41 PM - SeleniumDriver - INFO: Element found with locator: //label[contains(.,'Bulk 1.0')] and  locatorType: xpath
+06/26/2019 02:13:41 PM - SeleniumDriver - INFO: Clicked on element with locator: //label[contains(.,'Bulk 1.0')] locatorType: xpath
+06/26/2019 02:13:43 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 02:13:43 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 02:13:43 PM - SeleniumDriver - INFO: Element found with locator: //p[contains(text(),'Clear filters')] and  locatorType: xpath
+06/26/2019 02:13:43 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:13:43 PM - SeleniumDriver - INFO: The text is :: 'Clear filters'
+06/26/2019 02:13:43 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Clear filters
+06/26/2019 02:13:43 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Clear filters
+06/26/2019 02:13:43 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:13:50 PM - SeleniumDriver - INFO: Element found with locator: //p[contains(text(),'Clear filters')] and  locatorType: xpath
+06/26/2019 02:13:51 PM - SeleniumDriver - INFO: Clicked on element with locator: //p[contains(text(),'Clear filters')] locatorType: xpath
+06/26/2019 02:13:54 PM - SeleniumDriver - INFO: Element found with locator: //label[contains(.,'Bulk 1.0')] and  locatorType: xpath
+06/26/2019 02:13:54 PM - SeleniumDriver - INFO: Clicked on element with locator: //label[contains(.,'Bulk 1.0')] locatorType: xpath
+06/26/2019 02:13:57 PM - SeleniumDriver - INFO: Element found with locator: //label[contains(.,'Bulk 1.0')] and  locatorType: xpath
+06/26/2019 02:13:57 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:13:57 PM - SeleniumDriver - INFO: The text is :: 'Bulk 1.0'
+06/26/2019 02:13:57 PM - SeleniumDriver - INFO: Element found with locator: //div[5]//ul[1]//li[1]//div[1] and  locatorType: xpath
+06/26/2019 02:13:57 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[5]//ul[1]//li[1]//div[1] locatorType: xpath
+06/26/2019 02:13:59 PM - SeleniumDriver - INFO: Element found with locator: //div[5]//ul[1]//li[1]//div[1] and  locatorType: xpath
+06/26/2019 02:13:59 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:13:59 PM - SeleniumDriver - INFO: The text is :: 'Furniture'
+06/26/2019 02:14:02 PM - SeleniumDriver - INFO: Element found with locator: //div[6]//ul[1]//li[1]//div[1] and  locatorType: xpath
+06/26/2019 02:14:02 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[6]//ul[1]//li[1]//div[1] locatorType: xpath
+06/26/2019 02:14:02 PM - SeleniumDriver - INFO: Element found with locator: //div[6]//ul[1]//li[1]//div[1] and  locatorType: xpath
+06/26/2019 02:14:02 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:14:02 PM - SeleniumDriver - INFO: The text is :: 'Stool_bar'
+06/26/2019 02:14:05 PM - SeleniumDriver - INFO: Element found with locator: //div[7]//ul[1]//li[1]//div[1] and  locatorType: xpath
+06/26/2019 02:14:06 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[7]//ul[1]//li[1]//div[1] locatorType: xpath
+06/26/2019 02:14:06 PM - SeleniumDriver - INFO: Element found with locator: //div[7]//ul[1]//li[1]//div[1] and  locatorType: xpath
+06/26/2019 02:14:06 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:14:06 PM - SeleniumDriver - INFO: The text is :: 'Brendan ravenhill'
+06/26/2019 02:14:09 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 02:14:09 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 02:14:09 PM - SeleniumDriver - INFO: Element found with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div and  locatorType: xpath
+06/26/2019 02:14:09 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div locatorType: xpath
+06/26/2019 02:14:12 PM - SeleniumDriver - INFO: Element found with locator: //div[@class='rah-static rah-static--height-auto']//div[6]//span[2] and  locatorType: xpath
+06/26/2019 02:14:12 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:14:12 PM - SeleniumDriver - INFO: The text is :: 'Stool_bar'
+06/26/2019 02:14:12 PM - SeleniumDriver - INFO: Element found with locator: //div[@class='rah-static rah-static--height-auto']//div[5]//span[2] and  locatorType: xpath
+06/26/2019 02:14:12 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:14:12 PM - SeleniumDriver - INFO: The text is :: 'Furniture'
+06/26/2019 02:14:12 PM - SeleniumDriver - INFO: Element found with locator: //div[@class='rah-static rah-static--height-auto']//div[2]//span[2] and  locatorType: xpath
+06/26/2019 02:14:12 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:14:12 PM - SeleniumDriver - INFO: The text is :: 'Brendan ravenhill'
+06/26/2019 02:14:12 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Furniture
+06/26/2019 02:14:12 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Furniture
+06/26/2019 02:14:12 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:14:12 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Stool_bar
+06/26/2019 02:14:12 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Stool_bar
+06/26/2019 02:14:12 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:14:12 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Brendan ravenhill
+06/26/2019 02:14:12 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Brendan ravenhill
+06/26/2019 02:14:12 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:14:14 PM - SeleniumDriver - INFO: Element found with locator: //span[contains(.,'Global catalog')] and  locatorType: xpath
+06/26/2019 02:14:14 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[contains(.,'Global catalog')] locatorType: xpath
+06/26/2019 02:14:16 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 02:14:16 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 02:14:16 PM - SeleniumDriver - INFO: Element found with locator: //p[contains(text(),'Clear filters')] and  locatorType: xpath
+06/26/2019 02:14:17 PM - SeleniumDriver - INFO: Clicked on element with locator: //p[contains(text(),'Clear filters')] locatorType: xpath
+06/26/2019 02:14:22 PM - SeleniumDriver - INFO: Element found with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div/div[2]/p[1] and  locatorType: xpath
+06/26/2019 02:14:22 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:14:22 PM - SeleniumDriver - INFO: The text is :: 'Pipeline 125 wall'
+06/26/2019 02:14:24 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 02:14:24 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 02:14:30 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 02:14:30 PM - SeleniumDriver - INFO: Clear field with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 02:14:32 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 02:14:32 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 02:14:34 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 02:14:34 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 02:14:36 PM - SeleniumDriver - INFO: Element found with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div/div[2]/p[1] and  locatorType: xpath
+06/26/2019 02:14:36 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:14:36 PM - SeleniumDriver - INFO: The text is :: 'Pipeline 125 wall'
+06/26/2019 02:14:36 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Pipeline 125 wall
+06/26/2019 02:14:36 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Pipeline 125 wall
+06/26/2019 02:14:36 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:14:38 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 02:14:38 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 02:14:38 PM - SeleniumDriver - INFO: Element found with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div and  locatorType: xpath
+06/26/2019 02:14:38 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div locatorType: xpath
+06/26/2019 02:14:40 PM - SeleniumDriver - INFO: Element found with locator: //div[@class='sc-ifAKCX cZFrkc']//div[1]//span[@class='sc-dnqmqq QqDcF'] and  locatorType: xpath
+06/26/2019 02:14:40 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:14:40 PM - SeleniumDriver - INFO: The text is :: 'WW-LDW13W-ANL-21672-16B'
+06/26/2019 02:14:41 PM - SeleniumDriver - INFO: Element found with locator: //span[contains(.,'Global catalog')] and  locatorType: xpath
+06/26/2019 02:14:42 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[contains(.,'Global catalog')] locatorType: xpath
+06/26/2019 02:14:46 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 02:14:46 PM - SeleniumDriver - INFO: Clear field with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 02:14:48 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 02:14:48 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 02:14:50 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 02:14:50 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 02:14:52 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 02:14:52 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 02:14:52 PM - SeleniumDriver - INFO: Element found with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div and  locatorType: xpath
+06/26/2019 02:14:52 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div locatorType: xpath
+06/26/2019 02:14:57 PM - SeleniumDriver - INFO: Element found with locator: //div[@class='sc-ifAKCX cZFrkc']//div[1]//span[@class='sc-dnqmqq QqDcF'] and  locatorType: xpath
+06/26/2019 02:14:57 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:14:57 PM - SeleniumDriver - INFO: The text is :: 'WW-LDW13W-ANL-21672-16B'
+06/26/2019 02:14:59 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: WW-LDW13W-ANL-21672-16B
+06/26/2019 02:14:59 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: WW-LDW13W-ANL-21672-16B
+06/26/2019 02:14:59 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:14:59 PM - SeleniumDriver - INFO: Element found with locator: //span[contains(.,'Global catalog')] and  locatorType: xpath
+06/26/2019 02:14:59 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[contains(.,'Global catalog')] locatorType: xpath
+06/26/2019 02:15:03 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 02:15:03 PM - SeleniumDriver - INFO: Clear field with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 02:15:05 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 02:15:06 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 02:15:08 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 02:15:08 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 02:15:10 PM - SeleniumDriver - INFO: Element found with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div and  locatorType: xpath
+06/26/2019 02:15:10 PM - SeleniumDriver - INFO: Element is displayed
+06/26/2019 02:15:18 PM - SeleniumDriver - INFO: Element not found with locator: //div[@class='sc-ifAKCX cZFrkc']//div[1]//span[@class='sc-dnqmqq QqDcF'] and  locatorType: xpath
+06/26/2019 02:15:18 PM - SeleniumDriver - ERROR: Failed to get text on element 
+06/26/2019 02:21:54 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 02:21:55 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 02:21:55 PM - SeleniumDriver - INFO: Element found with locator: //div[@class='auth0-lock-social-button-text'] and  locatorType: xpath
+06/26/2019 02:22:00 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='auth0-lock-social-button-text'] locatorType: xpath
+06/26/2019 02:22:02 PM - SeleniumDriver - INFO: Locator type //input[@id='identifierid'] not correct/supported
+06/26/2019 02:22:02 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 02:22:02 PM - SeleniumDriver - INFO: Element not appeared on the web page
+06/26/2019 02:22:02 PM - SeleniumDriver - INFO: Element found with locator: //input[@id='identifierId'] and  locatorType: xpath
+06/26/2019 02:22:02 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@id='identifierId'] locatorType: xpath
+06/26/2019 02:22:04 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 02:22:04 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 02:22:04 PM - SeleniumDriver - INFO: Element found with locator: //span[contains(text(),'Next')] and  locatorType: xpath
+06/26/2019 02:22:04 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[contains(text(),'Next')] locatorType: xpath
+06/26/2019 02:22:06 PM - SeleniumDriver - INFO: Locator type //input[@name='password'] not correct/supported
+06/26/2019 02:22:06 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 02:22:07 PM - SeleniumDriver - INFO: Element not appeared on the web page
+06/26/2019 02:22:07 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='password'] and  locatorType: xpath
+06/26/2019 02:22:07 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@name='password'] locatorType: xpath
+06/26/2019 02:22:09 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 02:22:09 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 02:22:09 PM - SeleniumDriver - INFO: Element found with locator: //span[contains(text(),'Next')] and  locatorType: xpath
+06/26/2019 02:22:09 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[contains(text(),'Next')] locatorType: xpath
+06/26/2019 02:22:24 PM - SeleniumDriver - INFO: Element found with locator: //p[contains(text(),'Phoenix global catalog')] and  locatorType: xpath
+06/26/2019 02:22:24 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:22:24 PM - SeleniumDriver - INFO: The text is :: 'Phoenix global catalog'
+06/26/2019 02:22:24 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Phoenix global catalog
+06/26/2019 02:22:24 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Phoenix global catalog
+06/26/2019 02:22:24 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:22:24 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 02:22:24 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 02:22:24 PM - SeleniumDriver - INFO: Element found with locator: //div[@class='image-grid']//div[@class='left-top']//img and  locatorType: xpath
+06/26/2019 02:22:24 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='image-grid']//div[@class='left-top']//img locatorType: xpath
+06/26/2019 02:22:26 PM - SeleniumDriver - INFO: Element found with locator: //span[contains(.,'Global catalog')] and  locatorType: xpath
+06/26/2019 02:22:26 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:22:26 PM - SeleniumDriver - INFO: The text is :: 'Global catalog'
+06/26/2019 02:22:27 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Global catalog
+06/26/2019 02:22:27 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Global catalog
+06/26/2019 02:22:27 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:22:27 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 02:22:27 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 02:22:27 PM - SeleniumDriver - INFO: Element found with locator: //img[contains(@src,'https://lh4.googleusercontent.com/-l0Nse9g06Lk/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reoOmkz5csX7CYFMarjSm6XD9HFwQ/photo.jpg')] and  locatorType: xpath
+06/26/2019 02:22:27 PM - SeleniumDriver - INFO: Element present with locator: //img[contains(@src,'https://lh4.googleusercontent.com/-l0Nse9g06Lk/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reoOmkz5csX7CYFMarjSm6XD9HFwQ/photo.jpg')] locatorType: xpath
+06/26/2019 02:22:27 PM - SeleniumDriver - INFO: Element found with locator: //h2[contains(text(),'Filters')] and  locatorType: xpath
+06/26/2019 02:22:27 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:22:27 PM - SeleniumDriver - INFO: The text is :: 'Filters'
+06/26/2019 02:22:27 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Filters
+06/26/2019 02:22:27 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Filters
+06/26/2019 02:22:27 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:22:27 PM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Availability')] and  locatorType: xpath
+06/26/2019 02:22:27 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:22:27 PM - SeleniumDriver - INFO: The text is :: 'Availability'
+06/26/2019 02:22:27 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Availability
+06/26/2019 02:22:27 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Availability
+06/26/2019 02:22:27 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:22:27 PM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Collection')] and  locatorType: xpath
+06/26/2019 02:22:27 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:22:27 PM - SeleniumDriver - INFO: The text is :: 'Collection'
+06/26/2019 02:22:27 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Collection
+06/26/2019 02:22:27 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Collection
+06/26/2019 02:22:27 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:22:27 PM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Region')] and  locatorType: xpath
+06/26/2019 02:22:28 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:22:28 PM - SeleniumDriver - INFO: The text is :: 'Region'
+06/26/2019 02:22:28 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Region
+06/26/2019 02:22:28 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Region
+06/26/2019 02:22:28 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:22:28 PM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Type')] and  locatorType: xpath
+06/26/2019 02:22:28 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:22:28 PM - SeleniumDriver - INFO: The text is :: 'Type'
+06/26/2019 02:22:28 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Type
+06/26/2019 02:22:28 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Type
+06/26/2019 02:22:28 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:22:28 PM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Sub type')] and  locatorType: xpath
+06/26/2019 02:22:28 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:22:28 PM - SeleniumDriver - INFO: The text is :: 'Sub type'
+06/26/2019 02:22:28 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Sub type
+06/26/2019 02:22:28 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Sub type
+06/26/2019 02:22:28 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:22:28 PM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Manufacturer')] and  locatorType: xpath
+06/26/2019 02:22:28 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:22:28 PM - SeleniumDriver - INFO: The text is :: 'Manufacturer'
+06/26/2019 02:22:28 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Manufacturer
+06/26/2019 02:22:28 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Manufacturer
+06/26/2019 02:22:28 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:22:28 PM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Vendor')] and  locatorType: xpath
+06/26/2019 02:22:28 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:22:28 PM - SeleniumDriver - INFO: The text is :: 'Vendor'
+06/26/2019 02:22:28 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Vendor
+06/26/2019 02:22:28 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Vendor
+06/26/2019 02:22:28 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:22:28 PM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Material type')] and  locatorType: xpath
+06/26/2019 02:22:28 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:22:28 PM - SeleniumDriver - INFO: The text is :: 'Material type'
+06/26/2019 02:22:28 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Material type
+06/26/2019 02:22:28 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Material type
+06/26/2019 02:22:28 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:22:30 PM - SeleniumDriver - INFO: Element found with locator: //h4[contains(text(),'Region')] and  locatorType: xpath
+06/26/2019 02:22:30 PM - SeleniumDriver - INFO: Element present with locator: //h4[contains(text(),'Region')] locatorType: xpath
+06/26/2019 02:22:30 PM - SeleniumDriver - INFO: Element found with locator: //div[4]//span[contains(text(),'See more')] and  locatorType: xpath
+06/26/2019 02:22:30 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[4]//span[contains(text(),'See more')] locatorType: xpath
+06/26/2019 02:22:32 PM - SeleniumDriver - INFO: Element found with locator: //span[contains(text(),'See Less')] and  locatorType: xpath
+06/26/2019 02:22:32 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:22:32 PM - SeleniumDriver - INFO: The text is :: 'See Less'
+06/26/2019 02:22:32 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: See Less
+06/26/2019 02:22:32 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: See Less
+06/26/2019 02:22:32 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:22:34 PM - SeleniumDriver - INFO: Element found with locator: //span[contains(text(),'See Less')] and  locatorType: xpath
+06/26/2019 02:22:34 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[contains(text(),'See Less')] locatorType: xpath
+06/26/2019 02:22:36 PM - SeleniumDriver - INFO: Element found with locator: //div[4]//span[contains(text(),'See more')] and  locatorType: xpath
+06/26/2019 02:22:36 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:22:36 PM - SeleniumDriver - INFO: The text is :: 'See more'
+06/26/2019 02:22:36 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: See more
+06/26/2019 02:22:36 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: See more
+06/26/2019 02:22:36 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:22:38 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 02:22:38 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 02:22:38 PM - SeleniumDriver - INFO: Element found with locator: //label[contains(.,'Bulk 1.0')] and  locatorType: xpath
+06/26/2019 02:22:38 PM - SeleniumDriver - INFO: Clicked on element with locator: //label[contains(.,'Bulk 1.0')] locatorType: xpath
+06/26/2019 02:22:40 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 02:22:40 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 02:22:40 PM - SeleniumDriver - INFO: Element found with locator: //p[contains(text(),'Clear filters')] and  locatorType: xpath
+06/26/2019 02:22:40 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:22:40 PM - SeleniumDriver - INFO: The text is :: 'Clear filters'
+06/26/2019 02:22:40 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Clear filters
+06/26/2019 02:22:40 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Clear filters
+06/26/2019 02:22:40 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:22:47 PM - SeleniumDriver - INFO: Element found with locator: //p[contains(text(),'Clear filters')] and  locatorType: xpath
+06/26/2019 02:22:47 PM - SeleniumDriver - INFO: Clicked on element with locator: //p[contains(text(),'Clear filters')] locatorType: xpath
+06/26/2019 02:22:50 PM - SeleniumDriver - INFO: Element found with locator: //label[contains(.,'Bulk 1.0')] and  locatorType: xpath
+06/26/2019 02:22:50 PM - SeleniumDriver - INFO: Clicked on element with locator: //label[contains(.,'Bulk 1.0')] locatorType: xpath
+06/26/2019 02:22:54 PM - SeleniumDriver - INFO: Element found with locator: //label[contains(.,'Bulk 1.0')] and  locatorType: xpath
+06/26/2019 02:22:54 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:22:54 PM - SeleniumDriver - INFO: The text is :: 'Bulk 1.0'
+06/26/2019 02:22:54 PM - SeleniumDriver - INFO: Element found with locator: //div[5]//ul[1]//li[1]//div[1] and  locatorType: xpath
+06/26/2019 02:22:54 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[5]//ul[1]//li[1]//div[1] locatorType: xpath
+06/26/2019 02:22:56 PM - SeleniumDriver - INFO: Element found with locator: //div[5]//ul[1]//li[1]//div[1] and  locatorType: xpath
+06/26/2019 02:22:56 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:22:56 PM - SeleniumDriver - INFO: The text is :: 'Furniture'
+06/26/2019 02:22:59 PM - SeleniumDriver - INFO: Element found with locator: //div[6]//ul[1]//li[1]//div[1] and  locatorType: xpath
+06/26/2019 02:22:59 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[6]//ul[1]//li[1]//div[1] locatorType: xpath
+06/26/2019 02:22:59 PM - SeleniumDriver - INFO: Element found with locator: //div[6]//ul[1]//li[1]//div[1] and  locatorType: xpath
+06/26/2019 02:22:59 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:22:59 PM - SeleniumDriver - INFO: The text is :: 'Stool_bar'
+06/26/2019 02:23:02 PM - SeleniumDriver - INFO: Element found with locator: //div[7]//ul[1]//li[1]//div[1] and  locatorType: xpath
+06/26/2019 02:23:03 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[7]//ul[1]//li[1]//div[1] locatorType: xpath
+06/26/2019 02:23:04 PM - SeleniumDriver - INFO: Element found with locator: //div[7]//ul[1]//li[1]//div[1] and  locatorType: xpath
+06/26/2019 02:23:04 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:23:04 PM - SeleniumDriver - INFO: The text is :: 'Brendan ravenhill'
+06/26/2019 02:23:07 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 02:23:07 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 02:23:07 PM - SeleniumDriver - INFO: Element found with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div and  locatorType: xpath
+06/26/2019 02:23:07 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div locatorType: xpath
+06/26/2019 02:23:10 PM - SeleniumDriver - INFO: Element found with locator: //div[@class='rah-static rah-static--height-auto']//div[6]//span[2] and  locatorType: xpath
+06/26/2019 02:23:10 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:23:10 PM - SeleniumDriver - INFO: The text is :: 'Stool_bar'
+06/26/2019 02:23:10 PM - SeleniumDriver - INFO: Element found with locator: //div[@class='rah-static rah-static--height-auto']//div[5]//span[2] and  locatorType: xpath
+06/26/2019 02:23:10 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:23:10 PM - SeleniumDriver - INFO: The text is :: 'Furniture'
+06/26/2019 02:23:10 PM - SeleniumDriver - INFO: Element found with locator: //div[@class='rah-static rah-static--height-auto']//div[2]//span[2] and  locatorType: xpath
+06/26/2019 02:23:10 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:23:10 PM - SeleniumDriver - INFO: The text is :: 'Brendan ravenhill'
+06/26/2019 02:23:10 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Furniture
+06/26/2019 02:23:10 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Furniture
+06/26/2019 02:23:10 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:23:10 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Stool_bar
+06/26/2019 02:23:10 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Stool_bar
+06/26/2019 02:23:10 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:23:10 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Brendan ravenhill
+06/26/2019 02:23:10 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Brendan ravenhill
+06/26/2019 02:23:10 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:23:12 PM - SeleniumDriver - INFO: Element found with locator: //span[contains(.,'Global catalog')] and  locatorType: xpath
+06/26/2019 02:23:12 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[contains(.,'Global catalog')] locatorType: xpath
+06/26/2019 02:23:14 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 02:23:14 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 02:23:14 PM - SeleniumDriver - INFO: Element found with locator: //p[contains(text(),'Clear filters')] and  locatorType: xpath
+06/26/2019 02:23:14 PM - SeleniumDriver - INFO: Clicked on element with locator: //p[contains(text(),'Clear filters')] locatorType: xpath
+06/26/2019 02:23:19 PM - SeleniumDriver - INFO: Element found with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div/div[2]/p[1] and  locatorType: xpath
+06/26/2019 02:23:19 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:23:19 PM - SeleniumDriver - INFO: The text is :: 'Pipeline 125 wall'
+06/26/2019 02:23:21 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 02:23:21 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 02:23:27 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 02:23:27 PM - SeleniumDriver - INFO: Clear field with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 02:23:29 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 02:23:30 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 02:23:32 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 02:23:32 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 02:23:34 PM - SeleniumDriver - INFO: Element found with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div/div[2]/p[1] and  locatorType: xpath
+06/26/2019 02:23:34 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:23:34 PM - SeleniumDriver - INFO: The text is :: 'Pipeline 125 wall'
+06/26/2019 02:23:34 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: Pipeline 125 wall
+06/26/2019 02:23:34 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: Pipeline 125 wall
+06/26/2019 02:23:34 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:23:36 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 02:23:36 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 02:23:36 PM - SeleniumDriver - INFO: Element found with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div and  locatorType: xpath
+06/26/2019 02:23:36 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div locatorType: xpath
+06/26/2019 02:23:38 PM - SeleniumDriver - INFO: Element found with locator: //div[@class='sc-ifAKCX cZFrkc']//div[1]//span[@class='sc-dnqmqq QqDcF'] and  locatorType: xpath
+06/26/2019 02:23:38 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:23:38 PM - SeleniumDriver - INFO: The text is :: 'WW-LDW13W-ANL-21672-16B'
+06/26/2019 02:23:39 PM - SeleniumDriver - INFO: Element found with locator: //span[contains(.,'Global catalog')] and  locatorType: xpath
+06/26/2019 02:23:39 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[contains(.,'Global catalog')] locatorType: xpath
+06/26/2019 02:23:43 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 02:23:43 PM - SeleniumDriver - INFO: Clear field with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 02:23:45 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 02:23:46 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 02:23:48 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 02:23:48 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 02:23:50 PM - SeleniumDriver - INFO: Waiting for maximum :: 30 :: seconds for element to be clickable
+06/26/2019 02:23:50 PM - SeleniumDriver - INFO: Element appeared on the web page
+06/26/2019 02:23:50 PM - SeleniumDriver - INFO: Element found with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div and  locatorType: xpath
+06/26/2019 02:23:50 PM - SeleniumDriver - INFO: Clicked on element with locator: //*[@id="root"]/div/div[3]/div/div/div[2]/div[2]/div/div/div[3]/div[1]/div locatorType: xpath
+06/26/2019 02:23:55 PM - SeleniumDriver - INFO: Element found with locator: //div[@class='sc-ifAKCX cZFrkc']//div[1]//span[@class='sc-dnqmqq QqDcF'] and  locatorType: xpath
+06/26/2019 02:23:55 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:23:55 PM - SeleniumDriver - INFO: The text is :: 'WW-LDW13W-ANL-21672-16B'
+06/26/2019 02:23:57 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: WW-LDW13W-ANL-21672-16B
+06/26/2019 02:23:57 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: WW-LDW13W-ANL-21672-16B
+06/26/2019 02:23:57 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
+06/26/2019 02:23:57 PM - SeleniumDriver - INFO: Element found with locator: //span[contains(.,'Global catalog')] and  locatorType: xpath
+06/26/2019 02:23:57 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[contains(.,'Global catalog')] locatorType: xpath
+06/26/2019 02:24:01 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 02:24:01 PM - SeleniumDriver - INFO: Clear field with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 02:24:03 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 02:24:03 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 02:24:05 PM - SeleniumDriver - INFO: Element found with locator: //input[@placeholder='Filter by product name, SKU'] and  locatorType: xpath
+06/26/2019 02:24:05 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Filter by product name, SKU'] locatorType: xpath
+06/26/2019 02:24:07 PM - SeleniumDriver - INFO: Element found with locator: //p[contains(text(),'+ Custom SKU')] and  locatorType: xpath
+06/26/2019 02:24:07 PM - SeleniumDriver - INFO: Element is displayed
+06/26/2019 02:24:11 PM - SeleniumDriver - INFO: Element found with locator: //p[contains(text(),'+ Custom SKU')] and  locatorType: xpath
+06/26/2019 02:24:11 PM - SeleniumDriver - INFO: Getting text on element :: 
+06/26/2019 02:24:11 PM - SeleniumDriver - INFO: The text is :: '+ Custom SKU'
+06/26/2019 02:24:11 PM - SeleniumDriver - INFO: Actual Text From Application Web UI --> :: + Custom SKU
+06/26/2019 02:24:11 PM - SeleniumDriver - INFO: Expected Text From Application Web UI --> :: + Custom SKU
+06/26/2019 02:24:11 PM - SeleniumDriver - INFO: ### VERIFICATION CONTAINS !!!
