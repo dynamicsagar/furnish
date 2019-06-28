@@ -31,7 +31,7 @@ class SeleniumDriver():
                 os.makedirs(destinationDirectory)
             self.driver.save_screenshot(destinationFile)
             self.log.info("Screenshot save to directory: " + destinationFile)
-        except`
+        except:
             self.log.error("### Exception Occurred when taking screenshot")
             print_stack()
 
