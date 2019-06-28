@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/pages/add_remove_product/add_remove_product_page.py" line="554" />
+    <bookmark url="file://$PROJECT_DIR$/pages/add_remove_product/add_remove_product_page.py" line="555" />
     <bookmark url="file://$PROJECT_DIR$/pages/add_remove_product/add_remove_product_page.py" line="218" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b859c17c-ad56-4161-aa74-07aafe7fc1ed" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pages/catalog/catalog_pages.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/catalog/catalog_pages.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcases/global_catalog/global_catalog_testcases.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/global_catalog/global_catalog_testcases.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/selenium_driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/selenium_driver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/add_remove_product/add_remove_product_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/add_remove_product/add_remove_product_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/view_by_room/view_by_room.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/view_by_room/view_by_room.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases/view_by_room/view_by_room.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/view_by_room/view_by_room.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +24,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testcases/view_by_room/view_by_room.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="44">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
@@ -32,10 +36,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/view_by_room/view_by_room.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="349">
+              <caret line="585" selection-start-line="585" selection-end-line="585" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testcases/conftest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -44,8 +60,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testcases/test_suite.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="17" column="57" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
+            <state relative-caret-position="242">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -56,77 +72,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/add_remove_product/add_remove_product_page.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-14335">
-              <caret line="112" column="7" selection-start-line="112" selection-start-column="7" selection-end-line="112" selection-end-column="7" />
+            <state relative-caret-position="14542">
+              <caret line="664" column="44" selection-start-line="664" selection-start-column="44" selection-end-line="664" selection-end-column="44" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/login_and_logout/login_logout_page.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testcases/global_catalog/global_catalog_testcases.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-764">
-              <caret line="53" column="4" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
-              <folding>
-                <element signature="e#0#67#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testcases/catalog/catalog_testcases.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-              <folding>
-                <element signature="e#0#52#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pages/catalog/catalog_pages.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="165" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/global_catalog/global_catalog_pages.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1649">
-              <caret line="314" lean-forward="true" selection-start-line="314" selection-end-line="314" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/automation.log">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-14965">
-              <caret line="212" column="102" selection-start-line="212" selection-start-column="80" selection-end-line="212" selection-end-column="102" />
             </state>
           </provider>
         </entry>
@@ -142,24 +92,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>element1</find>
-      <find>no ass</find>
-      <find>contains</find>
-      <find>.contains</find>
-      <find>projectCardToProjectDetail</find>
-      <find>_product_quantity</find>
-      <find>message_after</find>
-      <find>_bulk_tag</find>
-      <find>remove</find>
-      <find>_close_button</find>
-      <find>_verify_view_unassigned_text</find>
-      <find>enterBudget</find>
-      <find>_bar</find>
-      <find>_click_project</find>
-      <find>accessCatalogPage</find>
-      <find>_outer_button_status</find>
-      <find>_irrelevant_text</find>
-      <find>_click_product</find>
       <find>_remove_product</find>
       <find>_outer</find>
       <find>addRoomAssignment</find>
@@ -172,6 +104,24 @@
       <find>clickFirstCell</find>
       <find>sku_text</find>
       <find>_first_cell</find>
+      <find>clickAddAssignment</find>
+      <find>appl</find>
+      <find>add_edit_cancel_button</find>
+      <find>close</find>
+      <find>click</find>
+      <find>clickProductField</find>
+      <find>_click_product</find>
+      <find>_add_assignment</find>
+      <find>toast</find>
+      <find>sku</find>
+      <find>irre</find>
+      <find>window</find>
+      <find>_plus_button</find>
+      <find>_toast_message</find>
+      <find>element1</find>
+      <find>addEditButtonCancelFunctionality</find>
+      <find>add_edit</find>
+      <find>clickAss</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -188,7 +138,6 @@
         <option value="$PROJECT_DIR$/pages/Dashboard/Project card contents/Project_card_pages.py" />
         <option value="$PROJECT_DIR$/testcases/Dashboard/Project card contents/Project_card_testcases.py" />
         <option value="$PROJECT_DIR$/testcases/Project_detail/add_Assignment/add_assignment_page.py" />
-        <option value="$PROJECT_DIR$/base/selenium_driver.py" />
         <option value="$PROJECT_DIR$/testcases/Dashboard/project_card/Project_card_testcases.py" />
         <option value="$PROJECT_DIR$/pages/Dashboard/Project_card_contents/Project_card_pages.py" />
         <option value="$PROJECT_DIR$/base/basepage.py" />
@@ -206,15 +155,16 @@
         <option value="$PROJECT_DIR$/automation.log" />
         <option value="$PROJECT_DIR$/base/webdriver_factory.py" />
         <option value="$PROJECT_DIR$/testcases/Dashboard/project_dashboard_ui_functionality/dashboard_ui_functionality.py" />
-        <option value="$PROJECT_DIR$/testcases/test_suite.py" />
         <option value="$PROJECT_DIR$/pages/Dashboard/project_Dashboard_ui_functionality/dashboard_ui_functionality.py" />
-        <option value="$PROJECT_DIR$/testcases/view_by_room/view_by_room.py" />
-        <option value="$PROJECT_DIR$/pages/view_by_room/view_by_room.py" />
         <option value="$PROJECT_DIR$/pages/login_and_logout/login_logout_page.py" />
-        <option value="$PROJECT_DIR$/pages/add_remove_product/add_remove_product_page.py" />
         <option value="$PROJECT_DIR$/pages/global_catalog/global_catalog_pages.py" />
         <option value="$PROJECT_DIR$/testcases/global_catalog/global_catalog_testcases.py" />
         <option value="$PROJECT_DIR$/pages/catalog/catalog_pages.py" />
+        <option value="$PROJECT_DIR$/pages/add_remove_product/add_remove_product_page.py" />
+        <option value="$PROJECT_DIR$/testcases/test_suite.py" />
+        <option value="$PROJECT_DIR$/base/selenium_driver.py" />
+        <option value="$PROJECT_DIR$/testcases/view_by_room/view_by_room.py" />
+        <option value="$PROJECT_DIR$/pages/view_by_room/view_by_room.py" />
       </list>
     </option>
   </component>
@@ -230,6 +180,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -237,51 +188,10 @@
               <item name="furnish" type="b2602c69:ProjectViewProjectNode" />
               <item name="furnish" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="furnish" type="b2602c69:ProjectViewProjectNode" />
-              <item name="furnish" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="furnish" type="b2602c69:ProjectViewProjectNode" />
-              <item name="furnish" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="add_remove_product" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="furnish" type="b2602c69:ProjectViewProjectNode" />
-              <item name="furnish" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="catalog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="furnish" type="b2602c69:ProjectViewProjectNode" />
-              <item name="furnish" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="global_catalog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="furnish" type="b2602c69:ProjectViewProjectNode" />
-              <item name="furnish" type="462c0819:PsiDirectoryNode" />
-              <item name="testcases" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="furnish" type="b2602c69:ProjectViewProjectNode" />
-              <item name="furnish" type="462c0819:PsiDirectoryNode" />
-              <item name="testcases" type="462c0819:PsiDirectoryNode" />
-              <item name="catalog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="furnish" type="b2602c69:ProjectViewProjectNode" />
-              <item name="furnish" type="462c0819:PsiDirectoryNode" />
-              <item name="testcases" type="462c0819:PsiDirectoryNode" />
-              <item name="global_catalog" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -353,8 +263,23 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests for view_by_room.ViewRoom.test_01VerifyRoomCountFromViewByRoom" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="furnish" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcases/view_by_room" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;view_by_room.ViewRoom.test_01VerifyRoomCountFromViewByRoom&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for view_by_room.ViewRoom.test_01VerifyRoomCountFromViewByRoom" />
         <item itemvalue="Python.pydevd" />
         <item itemvalue="Python.cache_clear" />
       </list>
@@ -381,6 +306,11 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_view_by_room_ViewRoom_test_01VerifyRoomCountFromViewByRoom - 2019.06.27 at 17h 41m 43s.xml">
+      <configuration name="Unittests for view_by_room.ViewRoom.test_01VerifyRoomCountFromViewByRoom" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -397,17 +327,17 @@
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.14195184" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5006337" side_tool="true" weight="0.50268817" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.50126743" side_tool="true" weight="0.29166666" />
       <window_info anchor="bottom" id="Python Console" order="1" sideWeight="0.49936628" weight="0.4341398" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" weight="0.32258064" />
-      <window_info anchor="bottom" id="Version Control" order="4" weight="0.27284947" />
+      <window_info anchor="bottom" id="Version Control" order="4" weight="0.4139785" />
       <window_info anchor="bottom" id="Run" order="5" weight="0.27688172" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.39919356" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" weight="0.3293011" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49936628" visible="true" weight="0.36290324" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49873257" visible="true" weight="0.2889785" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -434,6 +364,42 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="file updated" />
@@ -465,13 +431,6 @@
     <entry file="file://$PROJECT_DIR$/example_dir/TestResults_testcases.catalog.catalog_testcases.Logcat_2019-06-20_11-40-30.html" />
     <entry file="file://$PROJECT_DIR$/example_dir/TestResults_testcases.catalog.catalog_testcases.Logcat_2019-06-20_11-41-41.html" />
     <entry file="file://$PROJECT_DIR$/example_dir/TestResults_testcases.catalog.catalog_testcases.Logcat_2019-06-20_11-43-22.html" />
-    <entry file="file://$PROJECT_DIR$/base/selenium_driver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-374">
-          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/utilities/teststatus.py" />
     <entry file="file://$PROJECT_DIR$/testcases/login_logout/login_logout_testcases.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -509,9 +468,6 @@
           <caret line="57" column="59" lean-forward="true" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="59" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/debug.log">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/testcases/furniture_budget/furniture_budget_testcases.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -591,64 +547,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testcases/view_by_room/view_by_room.py">
+    <entry file="file://$PROJECT_DIR$/pages/catalog/catalog_pages.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/view_by_room/view_by_room.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testcases/test_suite.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="17" column="57" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/login_and_logout/login_logout_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/add_remove_product/add_remove_product_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-14335">
-          <caret line="112" column="7" selection-start-line="112" selection-start-column="7" selection-end-line="112" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/automation.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-14965">
-          <caret line="212" column="102" selection-start-line="212" selection-start-column="80" selection-end-line="212" selection-end-column="102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/global_catalog/global_catalog_pages.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1649">
-          <caret line="314" lean-forward="true" selection-start-line="314" selection-end-line="314" />
+        <state relative-caret-position="176">
+          <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="165" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
@@ -665,20 +567,87 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pages/login_and_logout/login_logout_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/testcases/catalog/catalog_testcases.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="374">
+          <caret line="17" column="35" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="17" selection-end-column="35" />
           <folding>
             <element signature="e#0#52#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/catalog/catalog_pages.py">
+    <entry file="file://$PROJECT_DIR$/pages/global_catalog/global_catalog_pages.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="165" />
+        <state relative-caret-position="127">
+          <caret line="242" column="85" lean-forward="true" selection-start-line="242" selection-start-column="4" selection-end-line="242" selection-end-column="85" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debug.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/automation.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16826">
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/add_remove_product/add_remove_product_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="664" column="44" lean-forward="true" selection-start-line="664" selection-start-column="44" selection-end-line="664" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/selenium_driver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/test_suite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/view_by_room/view_by_room.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/view_by_room/view_by_room.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>

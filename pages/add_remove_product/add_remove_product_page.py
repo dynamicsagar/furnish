@@ -415,7 +415,7 @@ class addRemoveProducts(SeleniumDriver):
         self.elementClick(self._add_assignment)
         time.sleep(2)
         if self.isElementPresent(self._second_row_available)== True:
-            text_second_room =  self.getText(self._second_row_available)
+            text_second_room = self.getText(self._second_row_available)
             element_to_hover_over = self.getElement(self.element1)
             self.log.info('element found')
             hoverover = ActionChains(self.driver).move_to_element(element_to_hover_over).click().perform()
@@ -456,6 +456,7 @@ class addRemoveProducts(SeleniumDriver):
 
     element1 = "//div[@id='root']/div[2]/div/div/div[2]/div/div[3]/div[2]/div/div/table/tbody/tr/td[5]/div/div[2]"
     message_after_delete = "//p[contains(text(),'This product is not yet assigned to any rooms')]"
+
 
     def binButton(self):
         time.sleep(2)
@@ -613,6 +614,7 @@ class addRemoveProducts(SeleniumDriver):
     _home_submenu = "//span[contains(.,'Home')]"
     _product_view_count = "//span[contains(text(),'All products')]"
 
+
     # Product count on product detail page after adding a product
     def productAddedViewByType(self):
         count = self.getText(self._product_count)
@@ -649,6 +651,10 @@ class addRemoveProducts(SeleniumDriver):
     _add_new_room_room_type_name = "//tr[1]//td[4]"
     temp_var = "//input[@placeholder='2']"
 
+    def clickAssignNewRoom(self):
+        self.elementClick(self._assign_new_room)
+
+
     # assign rooms and unit
     def addRoomAssignment(self):
         time.sleep(4)
@@ -661,7 +667,7 @@ class addRemoveProducts(SeleniumDriver):
         time.sleep(2)
         self.clickAddAssignment()
         time.sleep(2)
-        self.elementClick(self._assign_new_room)
+        self.clickAssignNewRoom()
         time.sleep(2)
         a = "//tr"
         b = "//td[1]//div[1]//input[1]"
