@@ -5,7 +5,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 
 
 class addRemoveProducts(SeleniumDriver):
-
+    
     def __init__(self, driver):
         super().__init__(driver)
         self.driver = driver
@@ -653,7 +653,6 @@ class addRemoveProducts(SeleniumDriver):
 
     def clickAssignNewRoom(self):
         self.elementClick(self._assign_new_room)
-
 
     # assign rooms and unit
     def addRoomAssignment(self):

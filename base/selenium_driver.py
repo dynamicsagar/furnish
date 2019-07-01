@@ -15,6 +15,7 @@ class SeleniumDriver():
     def __init__(self, driver):
         self.driver = driver
 
+
     def screenShot(self, resultMessage):
         """
         Takes screenshot of the current open web page
@@ -254,5 +255,8 @@ class SeleniumDriver():
             assert True
         else:
             self.log.info("### VERIFICATION DOES NOT CONTAINS !!!")
+            self.screenShot(expectedText + ' ' + 'not matching ')
             assert False
+
+
 

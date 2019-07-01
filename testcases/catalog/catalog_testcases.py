@@ -13,7 +13,6 @@ class Logcat(unittest.TestCase):
     def ObjectSetup(self):
         self.ca = CatalogPages(self.driver)
 
-    @pytest.mark.run(order=1)
     def test_01VerifyAccessCatalogFromAddMoreProductButton(self):
         self.ca.accessCatalogPage()
 

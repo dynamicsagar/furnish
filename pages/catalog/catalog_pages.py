@@ -56,10 +56,9 @@ class CatalogPages(SeleniumDriver):
 
     def catalogMenuVerification(self):
         catalog_submenu = self.getText(self._catalog_submenu)
-        catalog_text = 'Catalog'
+        catalog_text = 'Catalooog'
         time.sleep(2)
         self.verifyTextContains(actualText=catalog_submenu, expectedText=catalog_text)
-
 
     # 02 TC - Access the Catalog page from search for product button
 
