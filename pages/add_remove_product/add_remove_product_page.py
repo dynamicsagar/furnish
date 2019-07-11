@@ -108,6 +108,7 @@ class addRemoveProducts(SeleniumDriver):
         view_by_type = view_by_type[0]
         #self.verifyTextContains(actualText=product_type, expectedText=view_by_type)
 
+
     # 05 - 06  TC - 'Edit existing' Tab - Search Functionality
 
     '''

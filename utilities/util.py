@@ -13,6 +13,7 @@ import random, string
 import utilities.custom_logger as cl
 import logging
 
+
 class Util(object):
 
     log = cl.customLogger(logging.INFO)
@@ -128,3 +129,4 @@ class Util(object):
                 return False
         else:
             return True
+

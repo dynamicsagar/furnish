@@ -26,7 +26,7 @@ class login(SeleniumDriver):
     _another_user = "//div[@class='BHzsHc']"
 
     # wrong password entered
-    _login_validation = "//div[contains(text(),'Wrong password. Try again or click Forgot password')]"
+    _login_validation = "//span[contains(text(),'Wrong password. Try again or click Forgot password')]"
 
     '''
     Create a dynamic method for each the locator so that if 

@@ -37,7 +37,6 @@ class ViewByRoom(SeleniumDriver):
     
     Verify : Count of room matches with total room.
     
-    
     '''
     def AllRoomCount(self):
         time.sleep(20)
@@ -573,6 +572,7 @@ class ViewByRoom(SeleniumDriver):
     Verify cancel button work and user redirect back to product detail screen.
     
     '''
+
     _add_more_product = "//span[contains(text(),'Add more products')]"
 
     def EditExistingCancelButton(self):

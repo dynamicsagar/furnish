@@ -13,11 +13,11 @@ class dashboard(SeleniumDriver):
     _project_card = "//p[contains(text(),'12 Calle de Prim - P1')]"
     _card_name = "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]"
     _detail_page_card_name = "//p[@class='project-title']"
-    _opening = '''//*[@id="root"]/div/div[3]/div/div/div[1]/div[1]/div[2]/div[3]/span[1]'''
-    _floor_count = '''//*[@id="root"]/div/div[3]/div/div/div[1]/div[1]/div[1]/div[4]/span[1]'''
-    _bar = "//div[1]/div[5]/div[1]/span[1]"
-    _budget_allocated = '''//*[@id="root"]/div/div[3]/div/div/div[1]/div[1]/div[1]/div[6]/span[1]'''
-    _estimated_total = '''//*[@id="root"]/div/div[3]/div/div/div[1]/div[1]/div[1]/div[7]/span[1]'''
+    _opening = "//div[1]/div[1]/div[2]/span[1]"
+    _floor_count = "//div[1]/div[1]/div[3]/span[1]"
+    _bar = "//div[1]/div[4]/div[1]/span[1]"
+    _budget_allocated = "//div[1]/div[1]/div[5]/span[1]"
+    _estimated_total = "//div[1]/div[1]/div[6]/span[1]"
     _project_status = '''//*[@id="root"]/div/div[3]/div/div/div[1]/div[1]/div[1]/div[1]'''
 
     # 01 TC - Verify Opening Text in grid

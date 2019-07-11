@@ -56,7 +56,7 @@ class CatalogPages(SeleniumDriver):
 
     def catalogMenuVerification(self):
         catalog_submenu = self.getText(self._catalog_submenu)
-        catalog_text = 'Catalooog'
+        catalog_text = 'Catalog'
         time.sleep(2)
         self.verifyTextContains(actualText=catalog_submenu, expectedText=catalog_text)
 

@@ -29,10 +29,10 @@ class dashboardCases(unittest.TestCase):
         self.dash = dashboard(self.driver)
         self.dash.estimatedTotal()
 
-    def test_06VerifyProjectStatus(self):
+    '''def test_06VerifyProjectStatus(self):
         self.dash = dashboard(self.driver)
         result = self.dash.projectStatus()
-        assert result == True
+        assert result == True'''
 
     def test_07VerifyUserDetailScreenOpen(self):
         self.dash = dashboard(self.driver)

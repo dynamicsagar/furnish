@@ -20,7 +20,7 @@ class FurnitureBudget(SeleniumDriver):
     # Project name
     _title_name = "//p[contains(text(),'Hareza Ikebukuro - P1')]"
     _click_first_project = "//p[contains(text(),'Avenida Circunvalacion del Club Golf Los Incas 170')]"
-    _bar = "//div[1]/div[5]/div[1]/span[1]"
+    _bar = "//div[1]/div[4]/div[1]/span[1]"
 
     # pagination next
     _next = "//li[contains(text(),'Next')]"
@@ -208,7 +208,6 @@ class FurnitureBudget(SeleniumDriver):
         time.sleep(2)
         self.verifyTextContains(actualText=bar_text, expectedText='$5.00 over')
 
-
     def budgetUnder(self):
         self.elementClick(self._click_first_project)
         time.sleep(2)
@@ -266,7 +265,7 @@ class FurnitureBudget(SeleniumDriver):
         value = "Expand project details"
         get_value = self.getText(self._expand_project_details)
         time.sleep(2)
-        self.verifyTextContains(actualText=get_value, expectedText="Expand project details")
+        self.verifyTextContains(actualText=get_value, expectedText=value)
 
     # Click on project link to maximise it.
     def expandProjectLink(self):
@@ -287,7 +286,7 @@ class FurnitureBudget(SeleniumDriver):
     _third_done = "//div[@id='project-page-header-container']/div[2]/div/div[3]/p"
     _fourth_blocked = "//div[@id='project-page-header-container']/div[2]/div/div[4]/p"
 
-    def projectStage(self):
+    '''def projectStage(self):
         time.sleep(2)
         self.elementClick(self._button_status)
         time.sleep(2)
@@ -339,7 +338,7 @@ class FurnitureBudget(SeleniumDriver):
         self.elementClick(self._home_menu)
         time.sleep(5)
         bbb = self.getText(self._outer_button_status)
-        self.verifyTextContains(actualText=aaa, expectedText=bbb)
+        self.verifyTextContains(actualText=aaa, expectedText=bbb)'''
 
     # LOCATORS
 

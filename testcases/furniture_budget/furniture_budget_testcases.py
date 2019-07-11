@@ -39,7 +39,7 @@ class Furniture(unittest.TestCase):
         self.project_card = FurnitureBudget(self.driver)
         self.project_card.expandProjectLink()
 
-    def test_08VerifyProjectStatusChange1(self):
+    '''def test_08VerifyProjectStatusChange1(self):
         self.project_card = FurnitureBudget(self.driver)
         self.project_card.projectStatus1()
 
@@ -49,7 +49,7 @@ class Furniture(unittest.TestCase):
 
     def test_10VerifyProjectStatusChange3(self):
         self.project_card = FurnitureBudget(self.driver)
-        self.project_card.projectStatus3()
+        self.project_card.projectStatus3()'''
 
     def test_11VerifyStargateLinkNavigation(self):
         self.project_card = FurnitureBudget(self.driver)
